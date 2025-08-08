@@ -5,6 +5,12 @@ https://tv.ddns.vn/tv/antvhd/index.m3u8
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@Vietnam" tvg-logo="https://hls.mskycdn.online/logo/dreamworks.png" group-title="Animation",DreamWorks Channel Asia Vietnam (1080p)
 https://tv.ddns.vn/tv/dreamworks/index.m3u8
+#EXTINF:-1 tvg-id="EChannel" tvg-logo="https://www.giniko.com/logos/190x110/926.jpg" group-title="General",E Channel
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgNzo1Nzo1MSBQTSZoYXNoX3ZhbHVlPU9tN21WaHVnV284bEZEVkhaV0E5ZUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
+#EXTINF:-1 tvg-id="GMTV" tvg-logo="" group-title="General",GM TV
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannelgmtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgODoyODoyNiBQTSZoYXNoX3ZhbHVlPUhieUt3M2ZyWmpRWmFJa3p0Z2ZBVXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==
+#EXTINF:-1 tvg-id="HayTV" tvg-logo="https://www.giniko.com/logos/190x110/1332.jpg" group-title="General",Hay TV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel17/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgNzo1Mzo1MCBQTSZoYXNoX3ZhbHVlPUNjWTloUmtZbWo1TndZS2tmcXQrTHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNg==
 #EXTINF:-1 tvg-id="KhanhHoaTV.vn" tvg-logo="https://i.imgur.com/qLMcGPT.png" group-title="General",Khanh Hoa TV (720p)
 http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 tvg-id="KienGiangTV.vn" tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="Undefined",KienGiangTV (1080p)
@@ -17,16 +23,28 @@ http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 tvg-id="NgheAnTV.vn@SD" tvg-logo="https://i.imgur.com/d9YEEwC.png" group-title="General",Nghe An TV
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
+#EXTINF:-1 tvg-id="ONBiz.vn" tvg-logo="https://www.giniko.com/logos/190x110/925.jpg" group-title="General",On Biz
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel5/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgODowNTo1MCBQTSZoYXNoX3ZhbHVlPVVYN05MSnVnQkRra2JBbkp6amJNMnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
 #EXTINF:-1 tvg-id="ONFootball.vn@SD" tvg-logo="https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png" group-title="Sports",ON Football
 http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8
+#EXTINF:-1 tvg-id="ONPhim.vn" tvg-logo="https://www.giniko.com/logos/190x110/924.jpg" group-title="General",On Phim
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgODowMzo1OSBQTSZoYXNoX3ZhbHVlPWVpc3hlczRTdXJmYi95aGJJeUkyaUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
 #EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-logo="https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png" group-title="Lifestyle",ON Style TV
 http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
 #EXTINF:-1 tvg-id="ONVieDrama.vn@SD" tvg-logo="https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png" group-title="Entertainment",ON Vie Drama
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Undefined",QPVN HD (1080p)
 https://tv.ddns.vn/tv/qpvnhd/index.m3u8
+#EXTINF:-1 tvg-id="Saigontv" tvg-logo="https://www.giniko.com/logos/190x110/922.png" group-title="General",Saigon TV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgNzo0OTozOCBQTSZoYXNoX3ZhbHVlPU9DZlEzdHhaVjBIV1lQc3Rkb2Nienc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
 #EXTINF:-1 tvg-id="ThaiNguyenTV.vn" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" group-title="General",Thai Nguyen TV (1080p)
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="Vietsky" tvg-logo="" group-title="General",VietSky
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel13/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgODoyNjo0NyBQTSZoYXNoX3ZhbHVlPTNVZndqdCtXWk42eGMxd2xxdmYxYmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==
+#EXTINF:-1 tvg-id="Vietoday" tvg-logo="https://www.giniko.com/logos/190x110/921.png" group-title="General",Vietoday
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgNzo0ODoxMSBQTSZoYXNoX3ZhbHVlPU9UY3dZOU16RFErWFlocmpHUXBSY1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
+#EXTINF:-1 tvg-id="VSTV" tvg-logo="https://www.giniko.com/logos/190x110/923.jpg" group-title="General",VSTV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgNzo0Mzo1NCBQTSZoYXNoX3ZhbHVlPVRNZmtGbGdxdFNCMEdNbDNZQmxNOWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
 #EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Undefined",VTV1 (1080p)
 https://tv.ddns.vn/tv/vtv1fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="Undefined",VTV2 HD (1080p)
@@ -47,5 +65,7 @@ https://tv.ddns.vn/tv/vtv7fhd/index.m3u8
 https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="Undefined",VTV9 HD (1080p)
 https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
+#EXTINF:-1 tvg-id="VTVCab" tvg-logo="https://www.giniko.com/logos/190x110/1333.jpg" group-title="General",VTV Cab
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel18/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgNzo1Njo1MSBQTSZoYXNoX3ZhbHVlPWp6QmlQd21FeWZ3aE5FNWhxNm54cXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNg==
 #EXTINF:-1 tvg-id="VTVCanTho.vn@HD" tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="Undefined",VTV Cần Thơ HD (1080p)
 https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
