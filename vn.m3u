@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 channel-ID="411451" tvg-chno="1000" tvg-name="ANTV HD (1080p)" tvg-id="1000" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="General",ANTV HD (1080p)
+#EXTINF:0 channel-id="411451" tvg-chno="1000" tvg-name="ANTV HD (1080p)" tvg-id="1000" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="General",ANTV HD (1080p)
 https://tv.ddns.vn/tv/antvhd/index.m3u8
 #EXTINF:-1 tvg-id="BacLieuTV.vn" tvg-logo="https://i.postimg.cc/Xvv0sB5n/Logo-BLTV-B-c-Li-u.png" group-title="General",Bac Lieu TV (1080p)
 https://tv.thbl.vn/live/tv/tv.m3u8
@@ -35,27 +35,27 @@ https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel13/index.m3u8?wmsAuthSign=c2
 https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgNzo0ODoxMSBQTSZoYXNoX3ZhbHVlPU9UY3dZOU16RFErWFlocmpHUXBSY1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
 #EXTINF:-1 tvg-id="VSTV" tvg-logo="https://www.giniko.com/logos/190x110/923.jpg" group-title="General",VSTV
 https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgNzo0Mzo1NCBQTSZoYXNoX3ZhbHVlPVRNZmtGbGdxdFNCMEdNbDNZQmxNOWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
-#EXTINF:-1 channel-ID="411383" tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="General",VTV1 (1080p)
+#EXTINF:-1 channel-id="411383" tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="General",VTV1 (1080p)
 https://tv.ddns.vn/tv/vtv1fhd/index.m3u8
-#EXTINF:-1 channel-ID="411493" tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="General",VTV2 HD (1080p)
+#EXTINF:-1 channel-id="411493" tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="General",VTV2 HD (1080p)
 https://tv.ddns.vn/tv/vtv2fhd/index.m3u8
-#EXTINF:-1 channel-ID="411494" tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="General",VTV3 HD (1080p)
+#EXTINF:-1 channel-id="411494" tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="General",VTV3 HD (1080p)
 https://tv.ddns.vn/tv/vtv3fhd/index.m3u8
-#EXTINF:-1 channel-ID="411406" tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="General",VTV4 HD (1080p)
+#EXTINF:-1 channel-id="411406" tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="General",VTV4 HD (1080p)
 https://tv.ddns.vn/tv/vtv4fhd/index.m3u8
-#EXTINF:-1 channel-ID="411398" tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="General",VTV5 HD (1080p)
+#EXTINF:-1 channel-id="411398" tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="General",VTV5 HD (1080p)
 https://tv.ddns.vn/tv/vtv5fhd/index.m3u8
-#EXTINF:-1 channel-ID="411458" tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="General",VTV5 Tây Nam Bộ HD (1080p)
+#EXTINF:-1 channel-id="411458" tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="General",VTV5 Tây Nam Bộ HD (1080p)
 https://tv.ddns.vn/tv/vtv5tnbfhd/index.m3u8
-#EXTINF:-1 channel-ID="411529" tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="General",VTV5 Tây Nguyên HD (1080p)
+#EXTINF:-1 channel-id="411529" tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="General",VTV5 Tây Nguyên HD (1080p)
 https://tv.ddns.vn/tv/vtv5tnfhd/index.m3u8
-#EXTINF:-1 channel-ID="411528" tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="General",VTV7 HD (1080p)
+#EXTINF:-1 channel-id="411528" tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="General",VTV7 HD (1080p)
 https://tv.ddns.vn/tv/vtv7fhd/index.m3u8
-#EXTINF:-1 channel-ID="411401" tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="General",VTV8 HD (1080p)
+#EXTINF:-1 channel-id="411401" tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="General",VTV8 HD (1080p)
 https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8
-#EXTINF:-1 channel-ID="411369" tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="General",VTV9 HD (1080p)
+#EXTINF:-1 channel-id="411369" tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="General",VTV9 HD (1080p)
 https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTVCab" tvg-logo="https://www.giniko.com/logos/190x110/1333.jpg" group-title="General",VTV Cab
 https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel18/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI1IDU6MjM6MzMgUE0maGFzaF92YWx1ZT1EWm5NMnM5Z2VCa202QjdwRkd2S2xBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjY=
-#EXTINF:-1 channel-ID="411399" tvg-id="VTVCanTho.vn@HD" tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="General",VTV Cần Thơ HD (1080p)
+#EXTINF:-1 channel-id="411399" tvg-id="VTVCanTho.vn@HD" tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="General",VTV Cần Thơ HD (1080p)
 https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
