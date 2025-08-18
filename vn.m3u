@@ -21,7 +21,7 @@ https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8
 https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
 #EXTINF:-1 channelID="411399" tvg-id="411399" tvg-chno="1010" group-title="VTV" tvg-logo="https://i.imgur.com/Mqmbsj4.png",VTV Cần Thơ HD (1080p)
 https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
-#EXTINF:-1 channelID="411451" tvg-id="411451" tvg-chno="1100" group-title="General" tvg-name="ANTV HD (1080p)" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi",ANTV HD (1080p)
+#EXTINF:-1 channelID="411451" tvg-id="411451" tvg-chno="1100" group-title="General" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi",ANTV HD (1080p)
 https://tv.ddns.vn/tv/antvhd/index.m3u8
 #EXTINF:-1 channelID="411438" tvg-id="411438" tvg-chno="1101" group-title="General" tvg-logo="https://i.postimg.cc/Xvv0sB5n/Logo-BLTV-B-c-Li-u.png",Bac Lieu TV (1080p)
 https://tv.thbl.vn/live/tv/tv.m3u8
