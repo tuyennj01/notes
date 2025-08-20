@@ -9,9 +9,9 @@ https://tv.ddns.vn/tv/vtv3fhd/index.m3u8
 https://tv.ddns.vn/tv/vtv4fhd/index.m3u8
 #EXTINF:-1 channelID="411398" tvg-id="VTV5.HD.vn" tvg-chno="1004" group-title="VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png",VTV5 HD (1080p)
 https://tv.ddns.vn/tv/vtv5fhd/index.m3u8
-#EXTINF:-1 channelID="411458" tvg-id="VTV5.Tây.Nam.Bộ.(HD)..." tvg-chno="1005" group-title="VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 Tây Nam Bộ HD (1080p)
+#EXTINF:-1 channelID="411458" tvg-id="VTV5.Tây.Nam.Bộ.(HD).vn" tvg-chno="1005" group-title="VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 Tây Nam Bộ HD (1080p)
 https://tv.ddns.vn/tv/vtv5tnbfhd/index.m3u8
-#EXTINF:-1 channelID="411529" tvg-id="VTV5.Tây.Nguyên.(HD)..." tvg-chno="1006" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 Tây Nguyên HD (1080p)
+#EXTINF:-1 channelID="411529" tvg-id="VTV5.Tây.Nguyên.(HD).vn" tvg-chno="1006" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 Tây Nguyên HD (1080p)
 https://tv.ddns.vn/tv/vtv5tnfhd/index.m3u8
 #EXTINF:-1 channelID="411528" tvg-id="VTV7.HD.vn" tvg-chno="1007" group-title="VTV" tvg-logo="https://i.imgur.com/ZwoP823.png",VTV7 HD (1080p)
 https://tv.ddns.vn/tv/vtv7fhd/index.m3u8
@@ -27,7 +27,7 @@ https://tv.ddns.vn/tv/antvhd/index.m3u8
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 channelID="411436" tvg-id="QPVN.(HD).vn" tvg-chno="1102" group-title="General" tvg-logo="https://i.imgur.com/GQO7UNu.png",QPVN HD (1080p)
 https://tv.ddns.vn/tv/qpvnhd/index.m3u8
-#EXTINF:-1 channelID="411436" tvg-id="Thái.Nguyên.TV1.HD.v..." tvg-chno="1103" group-title="General" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",Thai Nguyen TV (1080p)
+#EXTINF:-1 channelID="411436" tvg-id="Thái.Nguyên.TV1.HD.vn" tvg-chno="1103" group-title="General" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",Thai Nguyen TV (1080p)
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 channelID="411437" tvg-id="ON.Football.(HD).vn" tvg-chno="1200" group-title="Sports" tvg-logo="https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png",ON Football
 http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8
