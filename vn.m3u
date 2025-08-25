@@ -31,6 +31,10 @@ https://tv.ddns.vn/tv/qpvnhd/index.m3u8
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="ON.Football.(HD).vn" tvg-chno="1200" group-title="Vietnam" tvg-logo="https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png",ON Football
 http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8
+#EXTINF:-1 tvg-id="ON.Football.(HD).vn" tvg-chno="1200" group-title="Vietnam" tvg-logo="https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png",ON Football (VietChannels)
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel11/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEyOjMzOjI3IFBNJmhhc2hfdmFsdWU9V2ZYWWx6YSthNTZzYWZrTy91eWFrZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
+#EXTINF:-1 tvg-id="ON.Phim.(HD).vn" tvg-chno="1200" group-title="Vietnam" tvg-logo="https://www.giniko.com/logos/190x110/924.jpg",ON Phim (VietChannels)
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9aU0yWEluUWZJQURnbm5melB6YXY5QT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
 #EXTINF:-1 tvg-id="ON.Style.TV.HD.vn" tvg-chno="1201" group-title="Vietnam" tvg-logo="https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png",ON Style TV
 http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
 #EXTINF:-1 tvg-id="ON.Vie.Dramas.vn" tvg-chno="1202" group-title="Vietnam" tvg-logo="https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png",ON Vie Drama
