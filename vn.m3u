@@ -55,7 +55,7 @@ https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel3/index.m3u8?wmsAuthSign=c2VydmVy
 https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="IVTV00" tvg-chno="3006" group-title="Vietnam" tvg-logo="",International Vietnamese Television IVTV 57.16
 https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB Việt Nam" tvg-country="Vietnam" tvg-language="Vietnam" tvg-logo="https://epg.pw/media/" group-title="Generic",TVB Việt nam
+#EXTINF:-1 tvg-id="" tvg-name="TVB Việt Nam" tvg-country="Vietnam" tvg-language="Vietnam" tvg-logo="https://epg.pw/media/" group-title="Vietnam",TVB Việt nam
 https://stream1.freetv.fun/d8e5c2e01db712c31db2c8fb24bf5aecfff2612a573a12f20505e1604b2cff85.m3u8
 #EXTINF:-1 tvg-id="CBEEBIES.HD.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Vietnam,Kids",CBeebies Asia Vietnam (1080p)
 https://hls.mskycdn.online/tv/bbccbb/index.m3u8
