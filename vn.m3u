@@ -21,6 +21,8 @@ https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8
 https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV.Cần.Thơ.vn" tvg-chno="1010" group-title="Vietnam" tvg-logo="https://i.imgur.com/Mqmbsj4.png",VTV Cần Thơ HD (1080p)
 https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday.vn" tvg-chno="1011" group-title="Vietnam" tvg-logo="",Vietnam Today
+https://hls.mskycdn.online/tv/vntoday/index.m3u8
 #EXTINF:-1 tvg-id="ANTV.vn" tvg-chno="1100" group-title="Vietnam" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi",ANTV HD (1080p)
 https://tv.ddns.vn/tv/antvhd/index.m3u8
 #EXTINF:-1 tvg-id="Bạc.Liêu.TV.vn" tvg-chno="1101" group-title="Vietnam" tvg-logo="https://i.postimg.cc/Xvv0sB5n/Logo-BLTV-B-c-Li-u.png",Bac Lieu TV (1080p)
