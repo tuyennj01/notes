@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-chno="5049" group-title="CableTV",A&E East (720p)
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-chno="5000" group-title="CableTV",Crime + Investigation (720p)
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-chno="5000" group-title="CableTV",Disney Channel East (720p)
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-chno="5000" group-title="CableTV",Disney Junior East (720p)
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-chno="5000" group-title="CableTV",Disney XD East (720p)
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-chno="5000" group-title="CableTV",E! East (1080p)
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-chno="5000" group-title="CableTV",Fuse East (1080p)
+https://tvpass.org/live/FuseEast/hd
+#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-chno="5000" group-title="CableTV",FX East (720p)
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-chno="5000" group-title="CableTV",FX Movie Channel (720p)
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-chno="5000" group-title="CableTV",FXX East (720p)
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="FYI.USA.-.Eastern.us" tvg-chno="5000" group-title="CableTV",FYI East (720p)
+https://tvpass.org/live/FYIEast/hd
+#EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-chno="5000" group-title="CableTV",Hallmark Drama (720p)
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-chno="5000" group-title="CableTV",Hallmark Movies & Mysteries East (1080p)
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 tvg-id="IFC.HDTV.(East).us" tvg-chno="5000" group-title="CableTV",IFC East (720p)
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" tvg-chno="5000" group-title="CableTV",Lifetime Movies East (720p)
+https://tvpass.org/live/LifetimeMoviesEast/hd
+#EXTINF:-1 tvg-id="LOGO.-.East.us" tvg-chno="5000" group-title="CableTV",Logo East (720p)
+https://tvpass.org/live/LogoEast/hd
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-chno="5000" group-title="CableTV",National Geographic HD East (720p)
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-chno="5000" group-title="CableTV",National Geographic Wild HD East (720p)
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-chno="57" group-title="CableTV",Starz East (1080p)
+https://tvpass.org/live/StarzEast/hd
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-chno="5038" group-title="CableTV",USA Network East (1080p)
+https://tvpass.org/live/USANetworkEast/hd
