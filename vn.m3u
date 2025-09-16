@@ -29,19 +29,19 @@ https://tv.ddns.vn/tv/antvhd/index.m3u8
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="QPVN.(HD).vn" tvg-chno="1102" group-title="Vietnam" tvg-logo="https://i.imgur.com/GQO7UNu.png",QPVN HD (1080p)
 https://tv.ddns.vn/tv/qpvnhd/index.m3u8
-#EXTINF:-1 tvg-id="Äá»“ng.ThÃ¡p.vn" tvg-chno="1103" tvg-logo="https://i.imgur.com/pgvVQ9c.png" group-title="Vietnam",Dong Thap TV (540p)
+#EXTINF:-1 tvg-id="Đồng.Tháp.vn" tvg-chno="1103" tvg-logo="https://i.imgur.com/pgvVQ9c.png" group-title="Vietnam",Dong Thap TV (540p)
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
-#EXTINF:-1 tvg-id="Äá»“ng.Nai.1.HD.vn" tvg-chno="1104" tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="Vietnam",Đồng Nai 1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Đồng.Nai.1.HD.vn" tvg-chno="1104" tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="Vietnam",Đồng Nai 1 (360p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Äá»“ng.Nai.2.vn" tvg-chno="1105" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="Vietnam",Đồng Nai 2 (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="Đồng.Nai.2.vn" tvg-chno="1105" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="Vietnam",Đồng Nai 2 (576p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HÃ .TÄ©nh.TV.HD.vn" tvg-chno="1106" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="Vietnam",Ha Tinh TV (720p)
+#EXTINF:-1 tvg-id="Hà.Tĩnh.TV.HD.vn" tvg-chno="1106" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="Vietnam",Ha Tinh TV (720p)
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
-#EXTINF:-1 tvg-id="KhÃ¡nh.HÃ²a.vn" tvg-chno="1108" tvg-logo="https://i.imgur.com/qLMcGPT.png" group-title="Vietnam",Khanh Hoa TV (720p)
+#EXTINF:-1 tvg-id="Khánh.Hòa.vn" tvg-chno="1108" tvg-logo="https://i.imgur.com/qLMcGPT.png" group-title="Vietnam",Khanh Hoa TV (720p)
 http://210.245.20.94/hls/ktv1.m3u8
-#EXTINF:-1 tvg-id="Nghá»‡.An.(HD).vn" tvg-chno="1109" tvg-logo="https://i.imgur.com/d9YEEwC.png" group-title="Vietnam",Nghe An TV
+#EXTINF:-1 tvg-id="Nghệ.An.(HD).vn" tvg-chno="1109" tvg-logo="https://i.imgur.com/d9YEEwC.png" group-title="Vietnam",Nghe An TV
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
-#EXTINF:-1 tvg-id="TrÃ .Vinh.TV.vn" tvg-chno="1111" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Vietnam",Tra Vinh TV (720p)
+#EXTINF:-1 tvg-id="Trà.Vinh.TV.vn" tvg-chno="1111" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Vietnam",Tra Vinh TV (720p)
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Thái.Nguyên.TV1.HD.vn" tvg-chno="1103" group-title="Vietnam" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",Thai Nguyen TV (1080p)
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
