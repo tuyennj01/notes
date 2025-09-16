@@ -37,8 +37,6 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HÃ .TÄ©nh.TV.HD.vn" tvg-chno="1106" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="Vietnam",Ha Tinh TV (720p)
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV3.HD.vn" tvg-chno="1107" tvg-logo="https://i.postimg.cc/Zq4xXNZs/HTV3-logo-2018.png" group-title="Vietnam",HTV3 (576p) [Geo-blocked]
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KhÃ¡nh.HÃ²a.vn" tvg-chno="1108" tvg-logo="https://i.imgur.com/qLMcGPT.png" group-title="Vietnam",Khanh Hoa TV (720p)
 http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 tvg-id="Nghá»‡.An.(HD).vn" tvg-chno="1109" tvg-logo="https://i.imgur.com/d9YEEwC.png" group-title="Vietnam",Nghe An TV
