@@ -61,6 +61,37 @@
 <channel id="news28.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
 <channel id="news29.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
 <channel id="news30.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+  
+<channel id="network1.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network2.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network3.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network4.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network5.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network6.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network7.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network8.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network9.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network10.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network11.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network12.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network13.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network14.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network15.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network16.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network17.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network18.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network19.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network20.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network21.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network22.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network23.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network24.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network25.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network26.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network27.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network28.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network29.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
+<channel id="network30.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
 
 <programme start="20250820000000 +0700" stop="20250820003000 +0700" channel="default.tv">
 <title lang="en">default.tv</title>
