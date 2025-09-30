@@ -2,9 +2,7 @@
 #EXTINF:-1 tvg-id="VTV1.HD.vn" tvg-chno="1000" group-title="Vietnam" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1 (1080p)
 https://hls.mskycdn.online/tv/vtv1fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV2.HD.vn" tvg-chno="1001" group-title="Vietnam" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2 HD (1080p)
-https://hls.mskycdn.online/tv/vtv2fhd/index.m3u8
-#EXTINF:-1 tvg-id="VTV3.HD.vn" tvg-chno="1002" group-title="Vietnam" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3 HD (1080p)
-https://hls.mskycdn.online/tv/vtv3fhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8?hdnts=exp=1759264076~acl=/hls/live/2029308/vtv2/*~hmac=b38011dab6bad98ced41239e8ee834c3891f6761445f7501a581e3d2d6d93706#EXTINF:-1 tvg-id="VTV3.HD.vn" tvg-chno="1002" group-title="Vietnam" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3 HD (1080p)
 #EXTINF:-1 tvg-id="VTV4.HD.vn" tvg-chno="1003" group-title="Vietnam" tvg-logo="https://i.imgur.com/WsLLmR2.png",VTV4 HD (1080p)
 https://hls.mskycdn.online/tv/vtv4fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.HD.vn" tvg-chno="1004" group-title="Vietnam" tvg-logo="https://i.imgur.com/Vnnna1C.png",VTV5 HD (1080p)
