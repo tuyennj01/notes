@@ -1,25 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-chno="5000" group-title="Network",KABC-DT1 (720p)
+#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-chno="5000" group-title="Network;TVPASS",KABC-DT1(tvpass)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-chno="5000" group-title="Network",KCBS-DT1 (1080p)
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-chno="5000" group-title="Network;TVPASS",KCBS-DT1(tvpass)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="CW.(KFMB-TV2).San.Diego,.CA.us" tvg-chno="5000" group-title="Network",KFMB-DT2 (CW)
+#EXTINF:-1 tvg-id="CW.(KFMB-TV2).San.Diego,.CA.us" tvg-chno="5000" group-title="Network;TVPASS",KFMB-DT2(CW)(tvpass)
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-chno="5000" group-title="Network",KNBC-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-chno="5000" group-title="Network;TVPASS",KNBC-DT1(tvpass)
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-chno="5000" group-title="Network",KTTV-DT1 (FOX)
+#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-chno="5000" group-title="Network;TVPASS",KTTV-DT1(FOX)(tvpass)
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-chno="5007" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011234289096_48.jpg",WABC-DT1 (720p)
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-chno="5007" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011234289096_48.jpg",WABC-DT1(freetv.fun)
 https://stream1.freetv.fun/abc--new-york-1.ctv
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-chno="5002" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2017/09/17/large/20170917225055829014_84.jpg",WCBS-DT1 (720p)
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-chno="5002" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2017/09/17/large/20170917225055829014_84.jpg",WCBS-DT1(freetv.fun)
 https://stream1.freetv.fun/cbs--new-york-2.ctv
-#EXTINF:-1 tvg-id="CW.(WIS-DT2).Columbia,.SC.us" tvg-chno="5010" group-title="Network",WIS-DT2 (CW)
+#EXTINF:-1 tvg-id="WCBSDT1.us@SD" tvg-chno="5003" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2017/09/17/large/20170917225055829014_84.jpg",WCBS-DT1(moveonjoy)
+https://fl25.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="CW.(WIS-DT2).Columbia,.SC.us" tvg-chno="5010" group-title="Network;TVPASS",WIS-DT2(CW)(tvpass)
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-chno="5004" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011234289096_48.jpg",WNBC-DT1 (720p)
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-chno="5004" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011234289096_48.jpg",WNBC-DT1(freetv.fun)
 https://stream1.freetv.fun/nbc--new-york-1.ctv
-#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-chno="5013" group-title="Network",WNET-DT1 (PBS)
+#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-chno="5013" group-title="Network;TVPASS",WNET-DT1(PBS)(tvpass)
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-chno="5005" group-title="Network",WNYW-DT1 (FOX)
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-chno="5005" group-title="Network;TVPASS",WNYW-DT1(FOX)(tvpass)
 https://tvpass.org/live/WNYWDT1/hd
 #EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-chno="5005" group-title="Network",ION
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
