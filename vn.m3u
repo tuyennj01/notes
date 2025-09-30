@@ -77,12 +77,14 @@ https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 http://dvrfl05.bozztv.com/vch_vchannel6/index.m3u8
 #EXTINF:-1 tvg-id="default9.tv" tvg-chno="3007" group-title="Vietnam" tvg-logo="",International Vietnamese Television IVTV 57.16
 https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
-#EXTINF:-1 tvg-id="default10.tv" tvg-chno="3008" tvg-name="TVB Việt Nam" tvg-country="Vietnam" tvg-language="Tiếng Việt" tvg-logo="https://epg.pw/media/" group-title="Vietnam",TVB Việt nam
+#EXTINF:-1 tvg-id="default10.tv" tvg-chno="3008" tvg-name="TVB Việt Nam" tvg-country="Vietnam" tvg-language="Vietnam" tvg-logo="" group-title="Vietnam",TVB Việt nam
 https://stream1.freetv.fun/d8e5c2e01db712c31db2c8fb24bf5aecfff2612a573a12f20505e1604b2cff85.m3u8
-#EXTINF:-1 tvg-id="CBEEBIES.HD.vn"tvg-chno="3009"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Vietnam",CBeebies Asia Vietnam (1080p)
+#EXTINF:-1 tvg-id="default13.tv" tvg-chno="3009" tvg-name="TVB Việt Nam" tvg-country="Vietnam" tvg-language="Vietnam" tvg-logo="" group-title="Vietnam",VNA
+https://stream-hls.castr.net/671fdee3941829f934e34e15/live_47d4c7f095ae11ef978b436d0f35840c/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="CBEEBIES.HD.vn"tvg-chno="3010"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Vietnam",CBeebies Asia Vietnam (1080p)
 https://hls.mskycdn.online/tv/bbccbb/index.m3u8
-#EXTINF:-1 tvg-id="CINEMAWORLD.HD.vn" tvg-chno="3010" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Vietnam",CinemaWorld Vietnam (1080p)
+#EXTINF:-1 tvg-id="CINEMAWORLD.HD.vn" tvg-chno="3011" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Vietnam",CinemaWorld Vietnam (1080p)
 https://hls.mskycdn.online/tv/cinemaworldhd/index.m3u8
-#EXTINF:-1 tvg-id="BBC.EARTH.HD.vn" tvg-chno="3011" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Vietnam",BBC Earth Vietnam (1080p)
+#EXTINF:-1 tvg-id="BBC.EARTH.HD.vn" tvg-chno="3012" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Vietnam",BBC Earth Vietnam (1080p)
 https://hls.mskycdn.online/tv/bbcearth/index.m3u8
 
