@@ -1,32 +1,38 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="VTV1.HD.vn" tvg-chno="1000" group-title="Vietnam" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1 (1080p)
-https://hls.mskycdn.online/tv/vtv1fhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1759265415~acl=/hls/live/2029307/vtv1/*~hmac=01929b255efa2cf195ac83adfbc41e2a49b6df155bec607f9964fe43fcf17056
 #EXTINF:-1 tvg-id="VTV2.HD.vn" tvg-chno="1001" group-title="Vietnam" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2 HD (1080p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8?hdnts=exp=1759264076~acl=/hls/live/2029308/vtv2/*~hmac=b38011dab6bad98ced41239e8ee834c3891f6761445f7501a581e3d2d6d93706#EXTINF:-1 tvg-id="VTV3.HD.vn" tvg-chno="1002" group-title="Vietnam" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3 HD (1080p)
+https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8?hdnts=exp=1759264076~acl=/hls/live/2029308/vtv2/*~hmac=b38011dab6bad98ced41239e8ee834c3891f6761445f7501a581e3d2d6d93706
+#EXTINF:-1 tvg-id="VTV3.HD.vn" tvg-chno="1002" group-title="Vietnam" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3 HD (1080p)
+https://vtv-live-push-token.akamaized.net/hls/live/2029309/vtv3/playlist.m3u8?hdnts=exp=1759265509~acl=/hls/live/2029309/vtv3/*~hmac=316aded0bf4b286146f5f160c930f40bcd838fffd10eb3c9d6968d247deaa829
 #EXTINF:-1 tvg-id="VTV4.HD.vn" tvg-chno="1003" group-title="Vietnam" tvg-logo="https://i.imgur.com/WsLLmR2.png",VTV4 HD (1080p)
-https://hls.mskycdn.online/tv/vtv4fhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029310/vtv4/playlist.m3u8?hdnts=exp=1759265536~acl=/hls/live/2029310/vtv4/*~hmac=735412362088e50b44909e8c0cdb896a2c653e5b941f6846737d7339086723e2
 #EXTINF:-1 tvg-id="VTV5.HD.vn" tvg-chno="1004" group-title="Vietnam" tvg-logo="https://i.imgur.com/Vnnna1C.png",VTV5 HD (1080p)
-https://hls.mskycdn.online/tv/vtv5fhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8?hdnts=exp=1759265557~acl=/hls/live/2029311/vtv5/*~hmac=07ffed8035e5097c2d8f950d2bb2fe0971f226e83ee206c1e9d02c6756659949
 #EXTINF:-1 tvg-id="VTV5.Tây.Nam.Bộ.(HD).vn" tvg-chno="1005" group-title="Vietnam" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 Tây Nam Bộ HD (1080p)
-https://hls.mskycdn.online/tv/vtv5tnbfhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029313/vtv5tnb/playlist.m3u8?hdnts=exp=1759265673~acl=/hls/live/2029313/vtv5tnb/*~hmac=8d110a8d2e912636b1783aea70fcbcc1018d5bc38e31017c3598c75ab076c9b4
 #EXTINF:-1 tvg-id="VTV5.Tây.Nguyên.(HD).vn" tvg-chno="1006" group-title="Vietnam" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 Tây Nguyên HD (1080p)
-https://hls.mskycdn.online/tv/vtv5tnfhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029312/vtv5tn/playlist.m3u8?hdnts=exp=1759265685~acl=/hls/live/2029312/vtv5tn/*~hmac=3020df4d7347eb70ae522c2a668464973cfca58538f8f91e3455bb1d77f65a1e
 #EXTINF:-1 tvg-id="VTV7.HD.vn" tvg-chno="1007" group-title="Vietnam" tvg-logo="https://i.imgur.com/ZwoP823.png",VTV7 HD (1080p)
-https://hls.mskycdn.online/tv/vtv7fhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029315/vtv7/playlist.m3u8?hdnts=exp=1759265696~acl=/hls/live/2029315/vtv7/*~hmac=161e4f62d78b095427e2d50a528ccb19d2760d28d3d77707d1d40d3b12dd289b
 #EXTINF:-1 tvg-id="VTV8.HD.vn" tvg-chno="1008" group-title="Vietnam" tvg-logo="https://i.imgur.com/rf9adGJ.png",VTV8 HD (1080p)
-https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hdnts=exp=1759265714~acl=/hls/live/2029316/vtv8/*~hmac=4154b05859408faed0c94327be2707cf402179ce3d9cc1353a95e0dc6870edbc
 #EXTINF:-1 tvg-id="VTV9.HD.vn" tvg-chno="1009" group-title="Vietnam" tvg-logo="https://i.imgur.com/QiY55sy.png",VTV9 HD (1080p)
-https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1759265724~acl=/hls/live/2029317/vtv9/*~hmac=a6c0ba98f577940db9f2b5dcb108a49eb624d4d47da2e6aa9e9ef5b1b4de2344
 #EXTINF:-1 tvg-id="VTV.Cần.Thơ.vn" tvg-chno="1010" group-title="Vietnam" tvg-logo="https://i.imgur.com/Mqmbsj4.png",VTV Cần Thơ HD (1080p)
-https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029314/vtv6/playlist.m3u8?hdnts=exp=1759265749~acl=/hls/live/2029314/vtv6/*~hmac=2d99d75fcf143be1c2e07d1abb9e4685a9db2d4b5f96b61a3d8a11af7b36213b
 #EXTINF:-1 tvg-id="default1.tv" tvg-chno="1011" group-title="Vietnam" tvg-logo="https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg",Vietnam Today
-https://hls.mskycdn.online/tv/vntoday/index.m3u8
+https://vtvgolive-qt.vtvdigital.vn/25_iNT7yVtn-fGUkUkiUlQ/1759265841/vtvgo_quocte/vietnamtoday-manifest.m3u8
+#EXTINF:-1 tvg-id="default1.tv" tvg-chno="1012" group-title="Vietnam" tvg-logo="https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg",Hanoi TV 1
+https://vtvgolive-liveh34.vtvdigital.vn/aUbXAuAp_-FSrm5EPLn0SA/1759265960/hls/HANOI1TV/index.m3u8
+#EXTINF:-1 tvg-id="default1.tv" tvg-chno="1013" group-title="Vietnam" tvg-logo="https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg",Hanoi TV 2
+https://cmcdp2.vtvdigital.vn/hls/HANOI2TV/index.m3u8
 #EXTINF:-1 tvg-id="ANTV.vn" tvg-chno="1100" group-title="Vietnam" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi",ANTV HD (1080p)
-https://hls.mskycdn.online/tv/antvhd/index.m3u8
+https://cmcty.vtvdigital.vn/mean/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="Bạc.Liêu.TV.vn" tvg-chno="1101" group-title="Vietnam" tvg-logo="https://i.postimg.cc/Xvv0sB5n/Logo-BLTV-B-c-Li-u.png",Bac Lieu TV (1080p)
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="QPVN.(HD).vn" tvg-chno="1102" group-title="Vietnam" tvg-logo="https://i.imgur.com/GQO7UNu.png",QPVN HD (1080p)
-https://hls.mskycdn.online/tv/qpvnhd/index.m3u8
+https://cmcty.vtvdigital.vn/mean/QPTV/index.m3u8
 #EXTINF:-1 tvg-id="Đồng.Tháp.vn" tvg-chno="1103" tvg-logo="https://i.imgur.com/pgvVQ9c.png" group-title="Vietnam",Dong Thap TV (540p)
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 tvg-id="Đồng.Nai.1.HD.vn" tvg-chno="1104" tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="Vietnam",Đồng Nai 1 (360p) [Not 24/7]
