@@ -24,7 +24,7 @@ https://vtv-live-push-token.akamaized.net/hls/live/2029314/vtv6/playlist.m3u8?hd
 #EXTINF:-1 tvg-id="default1.tv" tvg-chno="1011" group-title="Vietnam" tvg-logo="https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg",Vietnam Today
 https://vtvgolive-qt.vtvdigital.vn/25_iNT7yVtn-fGUkUkiUlQ/1759265841/vtvgo_quocte/vietnamtoday-manifest.m3u8
 #EXTINF:-1 tvg-id="default11.tv" tvg-chno="1012" group-title="Vietnam" tvg-logo="https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg",Hanoi TV 1
-https://vtvgolive-liveh34.vtvdigital.vn/aUbXAuAp_-FSrm5EPLn0SA/1759265960/hls/HANOI1TV/index.m3u8
+https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/index.m3u8
 #EXTINF:-1 tvg-id="default12.tv" tvg-chno="1013" group-title="Vietnam" tvg-logo="https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg",Hanoi TV 2
 https://cmcdp2.vtvdigital.vn/hls/HANOI2TV/index.m3u8
 #EXTINF:-1 tvg-id="ANTV.vn" tvg-chno="1100" group-title="Vietnam" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi",ANTV HD (1080p)
