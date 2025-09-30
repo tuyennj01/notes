@@ -9,15 +9,15 @@ https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-chno="5000" group-title="Network;TVPASS",KTTV-DT1(FOX)(tvpass)
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-chno="5007" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011234289096_48.jpg",WABC-DT1(freetv.fun)
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-chno="5007" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011234289096_48.jpg",WABC-DT1(freetv)
 https://stream1.freetv.fun/abc--new-york-1.ctv
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-chno="5002" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2017/09/17/large/20170917225055829014_84.jpg",WCBS-DT1(freetv.fun)
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-chno="5002" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2017/09/17/large/20170917225055829014_84.jpg",WCBS-DT1(freetv)
 https://stream1.freetv.fun/cbs--new-york-2.ctv
 #EXTINF:-1 tvg-id="WCBSDT1.us@SD" tvg-chno="5003" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2017/09/17/large/20170917225055829014_84.jpg",WCBS-DT1(moveonjoy)
 https://fl25.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="CW.(WIS-DT2).Columbia,.SC.us" tvg-chno="5010" group-title="Network;TVPASS",WIS-DT2(CW)(tvpass)
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-chno="5004" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011234289096_48.jpg",WNBC-DT1(freetv.fun)
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-chno="5004" group-title="Network" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011234289096_48.jpg",WNBC-DT1(freetv)
 https://stream1.freetv.fun/nbc--new-york-1.ctv
 #EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-chno="5013" group-title="Network;TVPASS",WNET-DT1(PBS)(tvpass)
 https://tvpass.org/live/WNET/hd
