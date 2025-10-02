@@ -49,32 +49,44 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Thái.Nguyên.TV1.HD.vn" tvg-chno="1103" group-title="Vietnam" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",Thai Nguyen TV
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="ON.Football.(HD).vn" tvg-chno="1200" group-title="Vietnam" tvg-logo="https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png",ON Football
-http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8
-#EXTINF:-1 tvg-id="ON.Football.(HD).vn" tvg-chno="1201" group-title="Vietnam" tvg-logo="https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png",ON Football (VietChannels)
-https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel11/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEyOjMzOjI3IFBNJmhhc2hfdmFsdWU9V2ZYWWx6YSthNTZzYWZrTy91eWFrZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
-#EXTINF:-1 tvg-id="ON.Phim.Việt.HD.vn" tvg-chno="1202" group-title="Vietnam" tvg-logo="https://www.giniko.com/logos/190x110/924.jpg",ON Phim (VietChannels)
-http://dvrfl05.bozztv.com/vch_vchannel4/index.m3u8
-#EXTINF:-1 tvg-id="ON.Style.TV.HD.vn" tvg-chno="1203" group-title="Vietnam" tvg-logo="https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png",ON Style TV
-http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
 #EXTINF:-1 tvg-id="ON.Vie.Dramas.vn" tvg-chno="1204" group-title="Vietnam" tvg-logo="https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png",ON Vie Drama
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:-1 tvg-id="DW-HD.vn" tvg-chno="2000" group-title="Vietnam" tvg-logo="https://hls.mskycdn.online/logo/dreamworks.png",DreamWorks Channel Asia Vietnam (1080p)
 https://hls.mskycdn.online/tv/dreamworks/index.m3u8
-#EXTINF:-1 tvg-id="default2.tv" tvg-chno="3000" group-title="Vietnam" tvg-logo="",GM TV
-https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannelgmtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgODoyODoyNiBQTSZoYXNoX3ZhbHVlPUhieUt3M2ZyWmpRWmFJa3p0Z2ZBVXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==
-#EXTINF:-1 tvg-id="default3.tv" tvg-chno="3001" group-title="Vietnam" tvg-logo="https://www.giniko.com/logos/190x110/922.png",Saigon TV
-http://dvrfl05.bozztv.com/vch_vchannel2/index.m3u8
-#EXTINF:-1 tvg-id="default4.tv" tvg-chno="3002" group-title="Vietnam" tvg-logo="",VietSky
-https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel13/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgODoyNjo0NyBQTSZoYXNoX3ZhbHVlPTNVZndqdCtXWk42eGMxd2xxdmYxYmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==
-#EXTINF:-1 tvg-id="default5.tv" tvg-chno="3003" group-title="Vietnam" tvg-logo="https://www.giniko.com/logos/190x110/921.png",Vietoday
-http://dvrfl05.bozztv.com/vch_vchannel1/index.m3u8
-#EXTINF:-1 tvg-id="default6.tv" tvg-chno="3004" group-title="Vietnam" tvg-logo="https://www.giniko.com/logos/190x110/923.jpg",VSTV
-http://dvrfl05.bozztv.com/vch_vchannel3/index.m3u8
+#EXTINF:-1 tvg-id="Vietoday.Television" group-title="Vietchannels",Vietoday Television
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MDEgUE0maGFzaF92YWx1ZT1CM1gyMktiVEhRR0NsUDY0N2RGUnVBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+#EXTINF:-1 tvg-id="Saigon.TV" group-title="Vietchannels",Saigon TV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MDMgUE0maGFzaF92YWx1ZT0weHRzNGZuVDdGWkd6UTYrbFBJVWpnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+#EXTINF:-1 tvg-id="VSTV" group-title="Vietchannels",VSTV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MDUgUE0maGFzaF92YWx1ZT1HQ2hrSDdUbVRrTGozSHdoY1lrdDl3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+#EXTINF:-1 tvg-id="AVA.TV" group-title="Vietchannels",AVA TV
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel16/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDM6MTM6MTAgUE0maGFzaF92YWx1ZT1TS3I3MGhMRmFpOXpOYTlDaXo2YUZ3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id="VIETSKY.TV" group-title="Vietchannels",VIETSKY TV
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel13/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDM6MTM6MTEgUE0maGFzaF92YWx1ZT1GU0pTQjRuRGpzSXVtWHlmMFpVRkpnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id="GM.TV" group-title="Vietchannels",GM TV
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannelgmtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDM6MTM6MTIgUE0maGFzaF92YWx1ZT1BRzBxTWlZWGttUVh3OTNUL2NETXVRPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id="Viet.Channels.Info" group-title="Vietchannels",Viet Channels Info
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel15/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDM6MTM6MTQgUE0maGFzaF92YWx1ZT10MlZTMjBmajd6OHpjVGUxY2t3YkJ3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id="Vcab7" group-title="Vietchannels",Vcab7
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel18/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MjQgUE0maGFzaF92YWx1ZT1nRUlyaGdYU3FjTTVjT0lFQWJxVFNBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjY=
+#EXTINF:-1 tvg-id="E.channel" group-title="Vietchannels",E channel
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MjYgUE0maGFzaF92YWx1ZT1ZNzQ4R0xsUWVrR04xOC9SZjE1R0dnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+#EXTINF:-1 tvg-id="STYLE.TV" group-title="Vietchannels",STYLE TV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel10/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MjcgUE0maGFzaF92YWx1ZT0xd3Jodlp4N1gwNWFpZmlwdDhuVTZnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjY=
+#EXTINF:-1 tvg-id="ON.Film" group-title="Vietchannels",ON Film
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MjggUE0maGFzaF92YWx1ZT12ZXlBREs1V3J5UjRKcUtBQmFXeW9nPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+#EXTINF:-1 tvg-id="On.Football" group-title="Vietchannels",On Football
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel11/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MzEgUE0maGFzaF92YWx1ZT1ZN1M0eGZJWTcxZnZpV3RqU2xZdnhBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjY=
+#EXTINF:-1 tvg-id="V.Now.-.Watch.Events.(DVR)" group-title="Vietchannels",V Now - Watch Events (DVR)
+https://tgn.bozztv.com/gin-36bay4/vchannel_vchannel-event/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MzIgUE0maGFzaF92YWx1ZT1JNmJ1cm9pMk1HTDJPK2JNQkcycmpBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzQ=
+#EXTINF:-1 tvg-id="Vietoday.Television.-.Live" group-title="Vietchannels",Vietoday Television - Live
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDM6MTM6MzcgUE0maGFzaF92YWx1ZT01bXpHQjRBNk9TeFZqallaeGsrRWt3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id="Saigon.TV.-.Live" group-title="Vietchannels",Saigon TV - Live
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDM6MTM6MzkgUE0maGFzaF92YWx1ZT1ta1ovRnUzZ3pJWnJBMTdENWdhSlFRPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id="VSTV.-.Live" group-title="Vietchannels",VSTV - Live
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDM6MTM6NDAgUE0maGFzaF92YWx1ZT0wL2N5K1RaY2Q5cXNQKzZTcEpFS3VRPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tvg-id="default7.tv" tvg-chno="3005" group-title="Vietnam" tvg-logo="",VBS TV (480p) [Not 24/7]
 https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="default8.tv" tvg-chno="3006" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Vietnam",E Channel (Vietchannels)
-http://dvrfl05.bozztv.com/vch_vchannel6/index.m3u8
 #EXTINF:-1 tvg-id="default9.tv" tvg-chno="3007" group-title="Vietnam" tvg-logo="",International Vietnamese Television IVTV 57.16
 https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 #EXTINF:-1 tvg-id="default10.tv" tvg-chno="3008" tvg-name="TVB Việt Nam" tvg-country="Vietnam" tvg-language="Vietnam" tvg-logo="" group-title="Vietnam",TVB Việt nam
