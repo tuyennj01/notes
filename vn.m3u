@@ -49,10 +49,6 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Thái.Nguyên.TV1.HD.vn" tvg-chno="1103" group-title="Vietnam" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",Thai Nguyen TV
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="ON.Vie.Dramas.vn" tvg-chno="1204" group-title="Vietnam" tvg-logo="https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png",ON Vie Drama
-http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
-#EXTINF:-1 tvg-id="DW-HD.vn" tvg-chno="2000" group-title="Vietnam" tvg-logo="https://hls.mskycdn.online/logo/dreamworks.png",DreamWorks Channel Asia Vietnam (1080p)
-https://hls.mskycdn.online/tv/dreamworks/index.m3u8
 #EXTINF:-1 tvg-id="Vietoday.Television" group-title="Vietchannels",Vietoday Television
 https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1IDI6MzI6MDEgUE0maGFzaF92YWx1ZT1CM1gyMktiVEhRR0NsUDY0N2RGUnVBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
 #EXTINF:-1 tvg-id="Saigon.TV" group-title="Vietchannels",Saigon TV
@@ -99,4 +95,5 @@ https://hls.mskycdn.online/tv/bbccbb/index.m3u8
 https://hls.mskycdn.online/tv/cinemaworldhd/index.m3u8
 #EXTINF:-1 tvg-id="BBC.EARTH.HD.vn" tvg-chno="3012" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Vietnam",BBC Earth Vietnam (1080p)
 https://hls.mskycdn.online/tv/bbcearth/index.m3u8
-
+#EXTINF:-1 tvg-id="DW-HD.vn" tvg-chno="2000" group-title="Vietnam" tvg-logo="https://hls.mskycdn.online/logo/dreamworks.png",DreamWorks Channel Asia Vietnam (1080p)
+https://hls.mskycdn.online/tv/dreamworks/index.m3u8
