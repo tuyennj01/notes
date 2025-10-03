@@ -73,7 +73,7 @@ https://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/index.m3u8
 https://cmcdp.vtvdigital.vn/live/hatinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Hai.Duong" group-title="VTVGO" tvg-logo="" ,Hai Duong
 https://cmcdp2.vtvdigital.vn/hls/HAIDUONGTV/index.m3u8
-#EXTINF:-1 tvg-id="Hanoi.TV.1" group-title="VTVGO" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/vQjVbIkOHP-0fd5b632-f8e4-4826-89ed-e616fc718ac6.webp" ,Hanoi TV 1
+#EXTINF:-1 tvg-id="Hanoi.TV.1" group-title="VTVGO" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/bdzDQczOL1-HNi1HD_150x902_1675158874.webp" ,Hanoi TV 1
 https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/index.m3u8
 #EXTINF:-1 tvg-id="Hanoi.TV.2" group-title="VTVGO" tvg-logo="" ,Hanoi TV 2
 https://cmcdp2.vtvdigital.vn/hls/HANOI2TV/index.m3u8
