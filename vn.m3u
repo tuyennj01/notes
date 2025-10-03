@@ -99,7 +99,7 @@ https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 https://cmcdp2.vtvdigital.vn/hls/TAYNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="Thai.Nguyen" group-title="VTVGO" tvg-logo="" ,Thai Nguyen
 https://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/index.m3u8
-#EXTINF:-1 tvg-id="Vietnam.Today" group-title="VTVGO" tvg-logo="" ,Vietnam Today
+#EXTINF:-1 tvg-id="Vietnam.Today" group-title="VTVGO" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250906/2025090623/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy.webp" ,Vietnam Today
 https://vtvgolive-qt.vtvdigital.vn/VOSF_cXawEsMnBOffN1olQ/1759507100/vtvgo_quocte/vietnamtoday-manifest.m3u8
 #EXTINF:-1 tvg-id="VTV.Can.Tho" group-title="VTVGO" tvg-logo="https://i.imgur.com/Mqmbsj4.png" ,VTV Can Tho
 https://vtvgolive-qt.vtvdigital.vn/VOSF_cXawEsMnBOffN1olQ/1759507100/vtvgo_quocte/vtv6-manifest.m3u8
