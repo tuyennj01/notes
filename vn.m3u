@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Vietoday.Television" group-title="Vietchannels" tvg-logo="" ,Vietoday Television
+#EXTINF:-1 tvg-id="Vietoday.Television" group-title="Vietchannels" tvg-logo="" tvg-name="Vietoday TV",Vietoday Television
 https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDQ6MzU6MTUgUE0maGFzaF92YWx1ZT16VjVhV0U5YUhYSklzYUl0cThzMHRBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
 #EXTINF:-1 tvg-id="Saigon.TV" group-title="Vietchannels" tvg-logo="" ,Saigon TV
 https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDQ6MzU6MTYgUE0maGFzaF92YWx1ZT1CUEFxS3N5ZFVndU56cXYzRjlHSDBnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
