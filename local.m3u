@@ -31,9 +31,25 @@ https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist
 https://tvpass.org/live/WABCDT1/hd
 #EXTINF:-1 tvg-id="WCBS-DT1.(720p)" group-title="New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png" ,WCBS-DT1 (720p)
 https://tvpass.org/live/WCBSDT1/hd
-#EXTINF:-1 tvg-id="WNBC-DT1" group-title="New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" ,WNBC-DT1
-https://fl25.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WPIX-DT1" group-title="New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" ,WPIX-DT1
 https://e1.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8?
 #EXTINF:-1 tvg-id="WWON.TV.CH.48" group-title="New York" tvg-logo="https://i.imgur.com/l4qHAq6.png" ,WWON TV CH 48
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
+#EXTINF:-1 tvg-id="ABC.4.Pittsburg.PA.(WTAE).(720p)" group-title="Pennsylvania" tvg-logo="" ,ABC 4 Pittsburg PA (WTAE) (720p)
+https://livetv-fa.tubi.video/wtae/playlist.m3u8
+#EXTINF:-1 tvg-id="Fashion.Finds" group-title="Pennsylvania" tvg-logo="https://i.imgur.com/GvDRZgq.png" ,Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 tvg-id="FOX.29.Philadelphia.PA.(WTXF-TV).(720p)" group-title="Pennsylvania" tvg-logo="https://i.imgur.com/fRjmk5r.png" ,FOX 29 Philadelphia PA (WTXF-TV) (720p)
+https://livetv-fa.tubi.video/wtxf/index.m3u8
+#EXTINF:-1 tvg-id="In.the.kitchen" group-title="Pennsylvania" tvg-logo="https://i.imgur.com/HrRUd6r.png" ,In the kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-id="NBC.8.Lancaster.PA.(WGAL).(720p)" group-title="Pennsylvania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" ,NBC 8 Lancaster PA (WGAL) (720p)
+https://livetv-fa.tubi.video/wgal/playlist.m3u8
+#EXTINF:-1 tvg-id="TUTV" group-title="Pennsylvania" tvg-logo="https://i.imgur.com/At0BPeA.png" ,TUTV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WINP-DT3" group-title="Pennsylvania" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" ,WINP-DT3
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/IONMYSTERY/index.m3u8
+#EXTINF:-1 tvg-id="WPVI.ABC.6.News.(Philadelphia.PA).(720p)" group-title="Pennsylvania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" ,WPVI ABC 6 News (Philadelphia PA) (720p)
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
+#EXTINF:-1 tvg-id="WPXI-DT1.(1080p)" group-title="Pennsylvania" tvg-logo="https://i.imgur.com/MNSBpDW.png" ,WPXI-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
