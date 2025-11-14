@@ -1,99 +1,827 @@
-<tv generator-info-name="none" generator-info-url="none">
-<channel id="default.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default1.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default2.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default3.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default4.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default5.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default6.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default7.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default8.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default9.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default10.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default11.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default12.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default13.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default14.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default15.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default16.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default17.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default18.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default19.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default20.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default21.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default22.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default23.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default24.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default25.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default26.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default27.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default28.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default29.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-<channel id="default30.tv"><display-name lang="en">default.tv</display-name><icon src=""/><url></url></channel>
-
-<channel id="news1.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news2.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news3.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news4.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news5.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news6.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news7.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news8.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news9.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news10.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news11.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news12.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news13.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news14.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news15.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news16.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news17.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news18.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news19.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news20.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news21.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news22.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news23.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news24.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news25.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news26.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news27.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news28.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news29.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="news30.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-  
-<channel id="network1.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network2.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network3.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network4.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network5.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network6.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network7.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network8.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network9.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network10.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network11.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network12.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network13.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network14.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network15.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network16.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network17.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network18.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network19.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network20.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network21.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network22.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network23.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network24.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network25.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network26.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network27.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network28.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network29.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-<channel id="network30.tv"><display-name lang="en">news.tv</display-name><icon src=""/><url></url></channel>
-
-<programme start="20250820000000 +0700" stop="20250820003000 +0700" channel="default.tv">
-<title lang="en">default.tv</title>
-</programme>
-</tv>
+#EXTM3U
+#EXTINF:-1 tvg-id="AVA.TV" group-title="Vietchannels" tvg-name="AVA TV" tvg-logo="",AVA TV
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel16/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjUwOjE5IFBNJmhhc2hfdmFsdWU9MU1PMGxDai9SWEEzcVVQbDE3MEx3UT09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1 tvg-id="E.channel" group-title="Vietchannels" tvg-name="E channel" tvg-logo="",E channel
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjE4IFBNJmhhc2hfdmFsdWU9UndlTjdPNFBiMW83OFVNWElvMzdaZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
+#EXTINF:-1 tvg-id="GM.TV" group-title="Vietchannels" tvg-name="GM TV" tvg-logo="",GM TV
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannelgmtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjUwOjIwIFBNJmhhc2hfdmFsdWU9WTlkMG5uQVlXR1ozejl1UGoxU2JYdz09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1 tvg-id="HayTV" group-title="Vietchannels" tvg-name="HayTV" tvg-logo="",HayTV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel17/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjE3IFBNJmhhc2hfdmFsdWU9Qnh5aXVIYUVBNStDM0F5dCt2ay9ZQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
+#EXTINF:-1 tvg-id="ON.biz" group-title="Vietchannels" tvg-name="ON biz" tvg-logo="",ON biz
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel5/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjIwIFBNJmhhc2hfdmFsdWU9YU5YT3FHUU1GR1NpQ2VnazlnVVFuZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
+#EXTINF:-1 tvg-id="ON.Film" group-title="Vietchannels" tvg-name="ON Film" tvg-logo="",ON Film
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjIwIFBNJmhhc2hfdmFsdWU9NkxJNGxoS2RaTkd1K1JkL2dnRFFjdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
+#EXTINF:-1 tvg-id="On.Football" group-title="Vietchannels" tvg-name="On Football" tvg-logo="",On Football
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel11/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjIxIFBNJmhhc2hfdmFsdWU9MUdDejd5K1kvZGV2VDZILzJtOUVYdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
+#EXTINF:-1 tvg-id="Saigon.TV.-.Live" group-title="Vietchannels" tvg-name="Saigon TV - Live" tvg-logo="",Saigon TV - Live
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjUwOjI3IFBNJmhhc2hfdmFsdWU9WVNKV1pXQzFNYlVoUFQxblI2R0xrQT09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1 tvg-id="Saigon.TV" group-title="Vietchannels" tvg-name="Saigon TV" tvg-logo="",Saigon TV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjEzIFBNJmhhc2hfdmFsdWU9NDU3cm1kOEVjQ0hML2hISStGK3RwQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
+#EXTINF:-1 tvg-id="STYLE.TV" group-title="Vietchannels" tvg-name="STYLE TV" tvg-logo="",STYLE TV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel10/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjE5IFBNJmhhc2hfdmFsdWU9WDdYVDAxWjlaYVo1YnQ3c1BRUmNrdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
+#EXTINF:-1 tvg-id="V.Now.-.Watch.Events.(DVR)" group-title="Vietchannels" tvg-name="V Now - Watch Events (DVR)" tvg-logo="",V Now - Watch Events (DVR)
+https://tgn.bozztv.com/gin-36bay4/vchannel_vchannel-event/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjIyIFBNJmhhc2hfdmFsdWU9NEpsVjhteWd2MUtoTVBHNmthOEJJQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTM0
+#EXTINF:-1 tvg-id="Vcab7" group-title="Vietchannels" tvg-name="Vcab7" tvg-logo="",Vcab7
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel18/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjE4IFBNJmhhc2hfdmFsdWU9SDlGT3ZtSjdJcmlrNmhPbXcrUFMzZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
+#EXTINF:-1 tvg-id="Viet.Channels.Info" group-title="Vietchannels" tvg-name="Viet Channels Info" tvg-logo="",Viet Channels Info
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel15/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjUwOjIxIFBNJmhhc2hfdmFsdWU9cDR3MnkxUjJJRkZEVm52d0dobThCZz09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1 tvg-id="Vietoday.Television.-.Live" group-title="Vietchannels" tvg-name="Vietoday Television - Live" tvg-logo="",Vietoday Television - Live
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjUwOjI3IFBNJmhhc2hfdmFsdWU9WVNKV1pXQzFNYlVoUFQxblI2R0xrQT09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1 tvg-id="Vietoday.Television" group-title="Vietchannels" tvg-name="Vietoday Television" tvg-logo="",Vietoday Television
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjEyIFBNJmhhc2hfdmFsdWU9YnhYY2VMMWdmdTVxakFKZlpncXFyUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
+#EXTINF:-1 tvg-id="VIETSKY.TV" group-title="Vietchannels" tvg-name="VIETSKY TV" tvg-logo="",VIETSKY TV
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel13/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjUwOjE5IFBNJmhhc2hfdmFsdWU9MU1PMGxDai9SWEEzcVVQbDE3MEx3UT09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1 tvg-id="VSTV.-.Live" group-title="Vietchannels" tvg-name="VSTV - Live" tvg-logo="",VSTV - Live
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjUwOjI4IFBNJmhhc2hfdmFsdWU9OEFJV2N5N2JETHcwRDJRRkE3R2tyZz09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1 tvg-id="VSTV" group-title="Vietchannels" tvg-name="VSTV" tvg-logo="",VSTV
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSAzOjA1OjE0IFBNJmhhc2hfdmFsdWU9MlhyN0ZOZ280TTNKUWNhQjc1OGdkUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" group-title="Cable TV" tvg-name="A&E East" tvg-logo="",A&E East
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-id="AMC.HD.us2" group-title="Cable TV" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" group-title="Cable TV" tvg-name="Crime + Investigation" tvg-logo="",Crime + Investigation
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" group-title="Cable TV" tvg-name="Disney Channel East" tvg-logo="",Disney Channel East
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" group-title="Cable TV" tvg-name="Disney Junior East" tvg-logo="",Disney Junior East
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" group-title="Cable TV" tvg-name="Disney XD East" tvg-logo="",Disney XD East
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" group-title="Cable TV" tvg-name="E! East" tvg-logo="",E! East
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 tvg-id="Fuse.HD.us2" group-title="Cable TV" tvg-name="Fuse East" tvg-logo="",Fuse East
+https://tvpass.org/live/FuseEast/hd
+#EXTINF:-1 tvg-id="FX.HD.us2" group-title="Cable TV" tvg-name="FX East" tvg-logo="",FX East
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" group-title="Cable TV" tvg-name="FX Movie" tvg-logo="https://i.postimg.cc/j27hBV04/fxm.png",FX Movie
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="FXX.HD.us2" group-title="Cable TV" tvg-name="FXX East" tvg-logo="",FXX East
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" group-title="Cable TV" tvg-name="FYI East" tvg-logo="",FYI East
+https://tvpass.org/live/FYIEast/hd
+#EXTINF:-1 tvg-id="Hallmark.Drama" group-title="Cable TV" tvg-name="Hallmark Drama" tvg-logo="",Hallmark Drama
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 tvg-id="Hallmark.Movies.&.More" group-title="Cable TV" tvg-name="Hallmark Movies & More" tvg-logo="",Hallmark Movies & More
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" group-title="Cable TV" tvg-name="Hallmark Movies & Mysteries East" tvg-logo="",Hallmark Movies & Mysteries East
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 tvg-id="IFC.HD.us2" group-title="Cable TV" tvg-name="IFC East" tvg-logo="",IFC East
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="Lifetime.Movies" group-title="Cable TV" tvg-name="Lifetime Movies" tvg-logo="",Lifetime Movies
+https://tvpass.org/live/LifetimeMoviesEast/hd
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" group-title="Cable TV" tvg-name="National Geographic Wild HD East" tvg-logo="",National Geographic Wild HD East
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" group-title="Cable TV" tvg-name="National Geographic" tvg-logo="",National Geographic
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="Starz.HD.us2" group-title="Cable TV" tvg-name="Starz East" tvg-logo="",Starz East
+https://tvpass.org/live/StarzEast/hd
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Cable TV" tvg-name="USA Network East" tvg-logo="",USA Network East
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 tvg-id="ION.Mystery" group-title="Network" tvg-name="ION Mystery" tvg-logo="",ION Mystery
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="ION.Plus.us2" group-title="Network" tvg-name="ION Plus" tvg-logo="",ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" group-title="Network" tvg-name="ION TV" tvg-logo="",ION TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Network" tvg-name="KABC-DT1-tvpass" tvg-logo="",KABC-DT1-tvpass
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" group-title="Network" tvg-name="KCBS-DT1-tvpass" tvg-logo="",KCBS-DT1-tvpass
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="KFMB-DT.us_locals1" group-title="Network" tvg-name="KFMB-DT2-CW-tvpass" tvg-logo="",KFMB-DT2-CW-tvpass
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Network" tvg-name="KNBC-DT1-tvpass" tvg-logo="",KNBC-DT1-tvpass
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Network" tvg-name="KTTV-DT1-FOX-tvpass" tvg-logo="",KTTV-DT1-FOX-tvpass
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" group-title="Network" tvg-name="WABC-DT1" tvg-logo="",WABC-DT1
+https://amg00497-amg00497c14-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c14-amgplt0023/playlist.m3u8
+https://tvpass.org/live/WABCDT1/hd
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" group-title="Network" tvg-name="WCBS-DT1-tvpass" tvg-logo="",WCBS-DT1-tvpass
+https://tvpass.org/live/WCBSDT1/hd
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="WIS-DT.us_locals1" group-title="Network" tvg-name="WIS-DT2-CW-tvpass" tvg-logo="",WIS-DT2-CW-tvpass
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+#EXTINF:-1 tvg-id="WJLP-DT1-MeTV" group-title="Network" tvg-name="WJLP-DT1-MeTV" tvg-logo="https://i.imgur.com/MfLl1HS.png",WJLP-DT1-MeTV
+https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
+#EXTINF:-1 tvg-id="WJLP-DT2-MeTV.Toons" group-title="Network" tvg-name="WJLP-DT2-MeTV Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",WJLP-DT2-MeTV Toons
+https://e3.thetvapp.to/hls/metv-toons/index.m3u8
+#EXTINF:-1 tvg-id="WLNY-DT.us_locals1" group-title="Network" tvg-name="WLNY-DT1" tvg-logo="https://i.imgur.com/ubsNr5F.jpg",WLNY-DT1
+http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" group-title="Network" tvg-name="WNBC-DT1-tvpass" tvg-logo="",WNBC-DT1-tvpass
+https://tvpass.org/live/WNBCDT1/hd
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1 tvg-id="WNET-DT.us_locals1" group-title="Network" tvg-name="WNET-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",WNET-DT1
+https://e5.thetvapp.to/hls/WNET/index.m3u8
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" group-title="Network" tvg-name="WNYW-DT1-FOX" tvg-logo="https://i.imgur.com/zZd9Tkt.png",WNYW-DT1-FOX
+https://livetv-fa.tubi.video/wnyw/index.m3u8
+https://tvpass.org/live/WNYWDT1/hd
+#EXTINF:-1 tvg-id="WPIX-DT.us_locals1" group-title="Network" tvg-name="WPIX-DT1-CW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png",WPIX-DT1-CW
+https://streamer1.nexgen.bz/WPIX/index.m3u8
+#EXTINF:-1 tvg-id="WTXF-FOX.29.Philadelphia.PA" group-title="Network" tvg-name="WTXF-FOX 29 Philadelphia PA" tvg-logo="https://i.imgur.com/fRjmk5r.png",WTXF-FOX 29 Philadelphia PA
+https://livetv-fa.tubi.video/wtxf/index.m3u8
+#EXTINF:-1 tvg-id="WWOR-DT.us_locals1" group-title="Network" tvg-name="WWOR-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png",WWOR-DT1
+http://restream-live.realiptv.to:8080/live/19742329/27604387/2476.m3u8
+#EXTINF:-1 tvg-id="ABC.News.New.York.NY.(WABC-TV)" group-title="News" tvg-name="ABC News New York NY (WABC-TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",ABC News New York NY (WABC-TV)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="ABC.News.Live.us2" group-title="News" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.Originals" group-title="News" tvg-name="Bloomberg Originals" tvg-logo="https://img.platform.wurl.dev/channel/1179/lg/816767/LG-Logo-PNG-100x100_v1.png",Bloomberg Originals
+https://689d6aad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctc2dfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+https://fb84b5b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctc2VfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.TV+" group-title="News" tvg-name="Bloomberg TV+" tvg-logo="https://img.platform.wurl.dev/channel/389/lg/6f2a84/LG-Logo-PNG-100x100_v3.png",Bloomberg TV+
+https://2645dccb.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctc2VfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
+https://94e96a7d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMLWJyX0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="CSPAN2.us2" group-title="News" tvg-name="C-SPAN 2" tvg-logo="",C-SPAN 2
+https://tvpass.org/live/CSPAN2/hd
+#EXTINF:-1 tvg-id="CBS.News.New.York" group-title="News" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png",CBS News New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="CNBC" group-title="News" tvg-name="CNBC" tvg-logo="",CNBC
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1 tvg-id="CNN.Headlines" group-title="News" tvg-name="CNN Headlines" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/68FD35EB-A041-40A4-8CB7-10123FC535FE/3-1x1.png",CNN Headlines
+https://amg01918-cnnus-amg01918c1-tablo-us-7236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN.Originals" group-title="News" tvg-name="CNN Originals" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7FB77F4A-D412-4C48-8F49-0D6D6D8F60FA/3-1x1.png",CNN Originals
+https://amg01918-cnnus-amg01918c2-tablo-us-7234.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN.HD.us2" group-title="News" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",CNN
+https://stream1.freetv.fun/cnn-3.m3u8
+https://tvpass.org/live/CNN/hd
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" group-title="News" tvg-name="Fox Business Network" tvg-logo="",Fox Business Network
+https://tvpass.org/live/FoxBusiness/hd
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" group-title="News" tvg-name="Fox News Channel" tvg-logo="https://epg.pw/media/img/logo/1_208.jpg",Fox News Channel
+https://stream1.freetv.fun/fox-news-channel-1.m3u8
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-id="MSNBC.HD.us2" group-title="News" tvg-name="MSNBC" tvg-logo="https://i.imgur.com/kGUR6NE.png",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
+https://tvpass.org/live/MSNBC/hd
+#EXTINF:-1 tvg-id="NBC.News.NOW" group-title="News" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png",NBC News NOW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+#EXTINF:-1 tvg-id="News.12.New.York" group-title="News" tvg-name="News 12 New York" tvg-logo="https://i.imgur.com/Ez7qAZP.png",News 12 New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
+#EXTINF:-1 tvg-id="Newsmax.2.TV.HD.us2" group-title="News" tvg-name="Newsmax 2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/12EBEC2E-2C3E-4FE9-812A-B69DF4F7C925/3-1x1.png",Newsmax 2
+https://amg00217-newsmax-amg00217c3-tablo-us-7611.playouts.now.amagi.tv/playlist.m3u8
+https://newsmax-klowdtv.amagi.tv/playlist.m3u8
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" group-title="News" tvg-name="Newsmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="NewsNet" group-title="News" tvg-name="NewsNet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",NewsNet
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsy" group-title="News" tvg-name="Newsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-id="Reuters" group-title="News" tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png",Reuters
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="Top.Stories.by.Newsy" group-title="News" tvg-name="Top Stories by Newsy" tvg-logo="https://i.imgur.com/UfN6aAi.png",Top Stories by Newsy
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1 tvg-id="USA.Today.News" group-title="News" tvg-name="USA Today News" tvg-logo="https://i.imgur.com/37K0AZX.png",USA Today News
+https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.News-Australia" group-title="News-International" tvg-name="ABC News-Australia" tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC News-Australia
+https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1 tvg-id="Arirang.vn" group-title="News-International" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CBC.TV8" group-title="News-International" tvg-name="CBC TV8" tvg-logo="https://i.imgur.com/WsD83lq.png",CBC TV8
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+#EXTINF:-1 tvg-id="CityNews.Calgary" group-title="News-International" tvg-name="CityNews Calgary" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CityNews Calgary
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-id="CityNews.Toronto" group-title="News-International" tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="CityNews.Vancouver" group-title="News-International" tvg-name="CityNews Vancouver" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CityNews Vancouver
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 tvg-id="CNA.International" group-title="News-International" tvg-name="CNA International" tvg-logo="https://i.imgur.com/xWglicB.png",CNA International
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNN.International.us2" group-title="News-International" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",CNN International
+https://amg00803-cnnfast-amg00803c6-lg-at-5357.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnniall-lgat/playlist.m3u8
+https://amg00803-cnnfast-amg00803c6-lg-ch-5358.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnniall-lgch/playlist.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="DW-HD.vn" group-title="News-International" tvg-name="DW English" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="Euronews.English" group-title="News-International" tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews English
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.vn" group-title="News-International" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg",France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="NHK.World-Japan" group-title="News-International" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World-Japan
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="RT.News" group-title="News-International" tvg-name="RT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV.vn" group-title="Vietnam" tvg-name="ANTV" tvg-logo="",ANTV
+https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:-1 tvg-id="ANTV2" group-title="Vietnam" tvg-name="ANTV2" tvg-logo="",ANTV2
+https://freem3u.xyz/api/live/play.m3u8?vid=35
+#EXTINF:-1 tvg-id="Asian.Food.Network.(HD).vn" group-title="Vietnam" tvg-name="Asian Food Network" tvg-logo="",Asian Food Network
+https://freem3u.xyz/api/live/play.m3u8?vid=215
+#EXTINF:-1 tvg-id="Bac.Lieu" group-title="Vietnam" tvg-name="Bac Lieu" tvg-logo="",Bac Lieu
+https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="BHTTV.-.BÃ¡o.HÃ .TÄ©nh" group-title="Vietnam" tvg-name="BHTTV - BÃ¡o HÃ  TÄ©nh" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg",BHTTV - BÃ¡o HÃ  TÄ©nh
+https://freem3u.xyz/api/live/play.m3u8?vid=58
+#EXTINF:-1 tvg-id="BRT.-.Trung.TÃ¢m.HTV.BÃ .Rá»‹a" group-title="Vietnam" tvg-name="BRT - Trung TÃ¢m HTV BÃ  Rá»‹a" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_ba-ria-vung-tau_165655617345.png",BRT - Trung TÃ¢m HTV BÃ  Rá»‹a
+https://freem3u.xyz/api/live/play.m3u8?vid=94
+#EXTINF:-1 tvg-id="BTV.-.BÃ¡o.vÃ .PTTH.Báº¯c.Ninh." group-title="Vietnam" tvg-name="BTV - BÃ¡o vÃ  PTTH Báº¯c Ninh " tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BTVBACNINH.jpg",BTV - BÃ¡o vÃ  PTTH Báº¯c Ninh
+https://freem3u.xyz/api/live/play.m3u8?vid=36
+#EXTINF:-1 tvg-id="BTV1.HD.-.ÄÃ i.PTTH.ThÃ nh.Phá»‘.Há»“.ChÃ­.Minh.(Trung.TÃ¢m.HTV.BÃ¬nh.DÆ°Æ¡ng)" group-title="Vietnam" tvg-name="BTV1 HD - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh (Trung TÃ¢m HTV BÃ¬nh DÆ°Æ¡ng)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/172829227022/75b754d1dbd3_640_360.png",BTV1 HD - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh (Trung TÃ¢m HTV BÃ¬nh DÆ°Æ¡ng)
+https://freem3u.xyz/api/live/play.m3u8?vid=42
+#EXTINF:-1 tvg-id="CRTV.HD.-.BÃ¡o.Cao.Báº±ng" group-title="Vietnam" tvg-name="CRTV HD - BÃ¡o Cao Báº±ng" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png",CRTV HD - BÃ¡o Cao Báº±ng
+https://freem3u.xyz/api/live/play.m3u8?vid=48
+#EXTINF:-1 tvg-id="CTV.HD.-.BÃ¡o.vÃ .PTTH.CÃ .Mau" group-title="Vietnam" tvg-name="CTV HD - BÃ¡o vÃ  PTTH CÃ  Mau" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg",CTV HD - BÃ¡o vÃ  PTTH CÃ  Mau
+https://freem3u.xyz/api/live/play.m3u8?vid=38
+#EXTINF:-1 tvg-id="Cáº§n.ThÆ¡.1.HD.-.BÃ¡o.vÃ .PTTH.ThÃ nh.Phá»‘.Cáº§n.ThÆ¡" group-title="Vietnam" tvg-name="Cáº§n ThÆ¡ 1 HD - BÃ¡o vÃ  PTTH ThÃ nh Phá»‘ Cáº§n ThÆ¡" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho1.png",Cáº§n ThÆ¡ 1 HD - BÃ¡o vÃ  PTTH ThÃ nh Phá»‘ Cáº§n ThÆ¡
+https://freem3u.xyz/api/live/play.m3u8?vid=47
+#EXTINF:-1 tvg-id="Cáº§n.ThÆ¡.2.HD.-.BÃ¡o.vÃ .PTTH.ThÃ nh.Phá»‘.Cáº§n.ThÆ¡" group-title="Vietnam" tvg-name="Cáº§n ThÆ¡ 2 HD - BÃ¡o vÃ  PTTH ThÃ nh Phá»‘ Cáº§n ThÆ¡" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho2.png",Cáº§n ThÆ¡ 2 HD - BÃ¡o vÃ  PTTH ThÃ nh Phá»‘ Cáº§n ThÆ¡
+https://freem3u.xyz/api/live/play.m3u8?vid=61
+#EXTINF:-1 tvg-id="Cáº§n.ThÆ¡.3.HD.-.BÃ¡o.vÃ .PTTH.ThÃ nh.Phá»‘.Cáº§n.ThÆ¡" group-title="Vietnam" tvg-name="Cáº§n ThÆ¡ 3 HD - BÃ¡o vÃ  PTTH ThÃ nh Phá»‘ Cáº§n ThÆ¡" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho3.png",Cáº§n ThÆ¡ 3 HD - BÃ¡o vÃ  PTTH ThÃ nh Phá»‘ Cáº§n ThÆ¡
+https://freem3u.xyz/api/live/play.m3u8?vid=84
+#EXTINF:-1 tvg-id="Da.Vinci" group-title="Vietnam" tvg-name="Da Vinci" tvg-logo="",Da Vinci
+https://freem3u.xyz/api/live/play.m3u8?vid=214
+#EXTINF:-1 tvg-id="Danang.TV.1.(DNRT1)" group-title="Vietnam" tvg-name="Danang TV 1 (DNRT1)" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ÄNRT1.png",Danang TV 1 (DNRT1)
+https://freem3u.xyz/api/live/play.m3u8?vid=49
+#EXTINF:-1 tvg-id="Danang.TV.2.(DNRT2)" group-title="Vietnam" tvg-name="Danang TV 2 (DNRT2)" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/DNRT2_logo.png",Danang TV 2 (DNRT2)
+https://freem3u.xyz/api/live/play.m3u8?vid=80
+#EXTINF:-1 tvg-id="Dong.Nai.1.-.NRTV" group-title="Vietnam" tvg-name="Dong Nai 1 - NRTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ÄNNRTV1HD.png",Dong Nai 1 - NRTV
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 tvg-id="Dong.Nai.2.-.NRTV" group-title="Vietnam" tvg-name="Dong Nai 2 - NRTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ÄNNRTV2.png",Dong Nai 2 - NRTV
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+#EXTINF:-1 tvg-id="DakLak.TV.vn" group-title="Vietnam" tvg-name="DRT HD - BÃ¡o vÃ  PTTH Äáº¯k Láº¯k" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png",DRT HD - BÃ¡o vÃ  PTTH Äáº¯k Láº¯k
+https://freem3u.xyz/api/live/play.m3u8?vid=51
+#EXTINF:-1 tvg-id="HTV.Key.(HD).vn" group-title="Vietnam" tvg-name="HTV Key - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",HTV Key - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 tvg-id="HTV1.HD.vn" group-title="Vietnam" tvg-name="HTV1 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 tvg-id="HTV2.HD.vn" group-title="Vietnam" tvg-name="HTV2 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV2 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+#EXTINF:-1 tvg-id="HTV3.HD.vn" group-title="Vietnam" tvg-name="HTV3 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png",HTV3 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+#EXTINF:-1 tvg-id="HTV7.HD.vn" group-title="Vietnam" tvg-name="HTV7 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV7 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh
+https://freem3u.xyz/api/live/play.m3u8?vid=193
+#EXTINF:-1 tvg-id="HTV9.HD.vn" group-title="Vietnam" tvg-name="HTV9 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV9 - ÄÃ i PTTH ThÃ nh Phá»‘ Há»“ ChÃ­ Minh
+https://freem3u.xyz/api/live/play.m3u8?vid=194
+#EXTINF:-1 tvg-id="HÃƒ .NÃ¡Â»â„¢i.1Ã‚ .HD.vn" group-title="Vietnam" tvg-name="HÃ  Ná»™i 1 - ÄÃ i HÃ  Ná»™i" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png",HÃ  Ná»™i 1 - ÄÃ i HÃ  Ná»™i
+https://freem3u.xyz/api/live/play.m3u8?vid=33
+#EXTINF:-1 tvg-id="HÃƒ .NÃ¡Â»â„¢i.2.HD.vn" group-title="Vietnam" tvg-name="HÃ  Ná»™i 2 - ÄÃ i HÃ  Ná»™i" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png",HÃ  Ná»™i 2 - ÄÃ i HÃ  Ná»™i
+https://freem3u.xyz/api/live/play.m3u8?vid=34
+#EXTINF:-1 tvg-id="International.Vietnamese.Television" group-title="Vietnam" tvg-name="International Vietnamese Television" tvg-logo="",International Vietnamese Television
+https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS.World" group-title="Vietnam" tvg-name="KBS World" tvg-logo="",KBS World
+https://freem3u.xyz/api/live/play.m3u8?vid=213
+#EXTINF:-1 tvg-id="LSTV.HD.-.BÃ¡o.vÃ .PTTH.Láº¡ng.SÆ¡n" group-title="Vietnam" tvg-name="LSTV HD - BÃ¡o vÃ  PTTH Láº¡ng SÆ¡n" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png",LSTV HD - BÃ¡o vÃ  PTTH Láº¡ng SÆ¡n
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:-1 tvg-id="LTV.-.BÃ¡o.Lai.ChÃ¢u" group-title="Vietnam" tvg-name="LTV - BÃ¡o Lai ChÃ¢u" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_lai-chau_165649245279.png",LTV - BÃ¡o Lai ChÃ¢u
+https://freem3u.xyz/api/live/play.m3u8?vid=68
+#EXTINF:-1 tvg-id="LTV2.HD.-.BÃ¡o.vÃ .PTTH.LÃ¢m.Äá»“ng" group-title="Vietnam" tvg-name="LTV2 HD - BÃ¡o vÃ  PTTH LÃ¢m Äá»“ng" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV2HD.png",LTV2 HD - BÃ¡o vÃ  PTTH LÃ¢m Äá»“ng
+https://freem3u.xyz/api/live/play.m3u8?vid=45
+#EXTINF:-1 tvg-id="LTV3.HD.-.BÃ¡o.vÃ .PTTH.LÃ¢m.Äá»“ng" group-title="Vietnam" tvg-name="LTV3 HD - BÃ¡o vÃ  PTTH LÃ¢m Äá»“ng" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png",LTV3 HD - BÃ¡o vÃ  PTTH LÃ¢m Äá»“ng
+https://freem3u.xyz/api/live/play.m3u8?vid=50
+#EXTINF:-1 tvg-id="NBTV.-.BÃ¡o.vÃ .PTTH.Ninh.BÃ¬nh" group-title="Vietnam" tvg-name="NBTV - BÃ¡o vÃ  PTTH Ninh BÃ¬nh" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png",NBTV - BÃ¡o vÃ  PTTH Ninh BÃ¬nh
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+#EXTINF:-1 tvg-id="NTV.-.BÃ¡o.vÃ .PTTH.Nghá»‡.An" group-title="Vietnam" tvg-name="NTV - BÃ¡o vÃ  PTTH Nghá»‡ An" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png",NTV - BÃ¡o vÃ  PTTH Nghá»‡ An
+https://freem3u.xyz/api/live/play.m3u8?vid=74
+#EXTINF:-1 tvg-id="ON.Bibi.HD.vn" group-title="Vietnam" tvg-name="ON BiBi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg",ON BiBi
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 tvg-id="ON.Cine.HD.vn" group-title="Vietnam" tvg-name="ON Cine" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg",ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="ON.E.Channel.vn" group-title="Vietnam" tvg-name="ON E- Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg",ON E- Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 tvg-id="ON.InfoTV.HD.vn" group-title="Vietnam" tvg-name="ON Info TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg",ON Info TV
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 tvg-id="ON.Kids.(HD).vn" group-title="Vietnam" tvg-name="ON Kids" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp",ON Kids
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-id="ON.Life.(HD).vn" group-title="Vietnam" tvg-name="ON Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg",ON Life
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 tvg-id="ON.MOVIES.(HD).vn" group-title="Vietnam" tvg-name="ON Movies - You TV" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg",ON Movies - You TV
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 tvg-id="ON.MUSIC.HD.vn" group-title="Vietnam" tvg-name="ON Music" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png",ON Music
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 tvg-id="ON.O2TV.HD.vn" group-title="Vietnam" tvg-name="ON O2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg",ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 tvg-id="ON.Style.TV.HD.vn" group-title="Vietnam" tvg-name="ON Style TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg",ON Style TV
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 tvg-id="ON.Trending.HD.vn" group-title="Vietnam" tvg-name="ON TRENDING TV" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp",ON TRENDING TV
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 tvg-id="ON.Vfamily.HD.vn" group-title="Vietnam" tvg-name="ON V Family" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",ON V Family
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 tvg-id="ON.Vie.Dramas.vn" group-title="Vietnam" tvg-name="ON Vie Dramas" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg",ON Vie Dramas
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-id="ON.Vie.GiÃ¡ÂºÂ£i.trÃƒÂ­.vn" group-title="Vietnam" tvg-name="ON Vie Giáº£i TrÃ­" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg",ON Vie Giáº£i TrÃ­
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-id="Outdoor" group-title="Vietnam" tvg-name="Outdoor" tvg-logo="",Outdoor
+https://freem3u.xyz/api/live/play.m3u8?vid=216
+#EXTINF:-1 tvg-id="QNgTV.-.BÃ¡o.vÃ .PTTH.Quáº£ng.NgÃ£i" group-title="Vietnam" tvg-name="QNgTV - BÃ¡o vÃ  PTTH Quáº£ng NgÃ£i" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV.jpg",QNgTV - BÃ¡o vÃ  PTTH Quáº£ng NgÃ£i
+https://freem3u.xyz/api/live/play.m3u8?vid=81
+#EXTINF:-1 tvg-id="QPVN" group-title="Vietnam" tvg-name="QPVN" tvg-logo="",QPVN
+https://freem3u.xyz/api/live/play.m3u8?vid=19
+#EXTINF:-1 tvg-id="QTTV.-.BÃ¡o.vÃ .PTTH.Quáº£ng.Trá»‹" group-title="Vietnam" tvg-name="QTTV - BÃ¡o vÃ  PTTH Quáº£ng Trá»‹" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QTTV.jpg",QTTV - BÃ¡o vÃ  PTTH Quáº£ng Trá»‹
+https://freem3u.xyz/api/live/play.m3u8?vid=83
+#EXTINF:-1 tvg-id="QTV1.HD.-.BÃ¡o.vÃ .PTTH.Quáº£ng.Ninh" group-title="Vietnam" tvg-name="QTV1 HD - BÃ¡o vÃ  PTTH Quáº£ng Ninh" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/QTV1.jpg",QTV1 HD - BÃ¡o vÃ  PTTH Quáº£ng Ninh
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="QTV3.HD.-.BÃ¡o.vÃ .PTTH.Quáº£ng.Ninh" group-title="Vietnam" tvg-name="QTV3 HD - BÃ¡o vÃ  PTTH Quáº£ng Ninh" tvg-logo="",QTV3 HD - BÃ¡o vÃ  PTTH Quáº£ng Ninh
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="SCTV2.vn" group-title="Vietnam" tvg-name="SCTV2 HD - TODAY TV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg",SCTV2 HD - TODAY TV
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+#EXTINF:-1 tvg-id="SCTV6.vn" group-title="Vietnam" tvg-name="SCTV6 HD - TODAY TV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg",SCTV6 HD - TODAY TV
+https://freem3u.xyz/api/live/play.m3u8?vid=232
+#EXTINF:-1 tvg-id="STV.HD.-.BÃ¡o.vÃ .PTTH.SÆ¡n.La" group-title="Vietnam" tvg-name="STV HD - BÃ¡o vÃ  PTTH SÆ¡n La" tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg",STV HD - BÃ¡o vÃ  PTTH SÆ¡n La
+https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+#EXTINF:-1 tvg-id="ThÃƒÂ¡i.NguyÃƒÂªn.TV1.HD.vn" group-title="Vietnam" tvg-name="Thai Nguyen" tvg-logo="",Thai Nguyen
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="411483" group-title="Vietnam" tvg-name="Thuan Viet" tvg-logo="",Thuan Viet
+https://freem3u.xyz/api/live/play.m3u8?vid=13
+#EXTINF:-1 tvg-id="THVL1.HD.-.BÃ¡o.vÃ .PTTH.VÄ©nh.Long" group-title="Vietnam" tvg-name="THVL1 HD - BÃ¡o vÃ  PTTH VÄ©nh Long" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_640_360.png",THVL1 HD - BÃ¡o vÃ  PTTH VÄ©nh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=25
+#EXTINF:-1 tvg-id="THVL2.HD.-.BÃ¡o.vÃ .PTTH.VÄ©nh.Long" group-title="Vietnam" tvg-name="THVL2 HD - BÃ¡o vÃ  PTTH VÄ©nh Long" tvg-logo="https://i.ytimg.com/vi/0W7Nvg-dQjY/maxresdefault.jpg",THVL2 HD - BÃ¡o vÃ  PTTH VÄ©nh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=26
+#EXTINF:-1 tvg-id="THVL3.HD.-.BÃ¡o.vÃ .PTTH.VÄ©nh.Long" group-title="Vietnam" tvg-name="THVL3 HD - BÃ¡o vÃ  PTTH VÄ©nh Long" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_640_360.png",THVL3 HD - BÃ¡o vÃ  PTTH VÄ©nh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=219
+#EXTINF:-1 tvg-id="THVL4.HD.-.BÃ¡o.vÃ .PTTH.VÄ©nh.Long" group-title="Vietnam" tvg-name="THVL4 HD - BÃ¡o vÃ  PTTH VÄ©nh Long" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_640_360.png",THVL4 HD - BÃ¡o vÃ  PTTH VÄ©nh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=220
+#EXTINF:-1 tvg-id="THVL5.HD.-.BÃ¡o.vÃ .PTTH.VÄ©nh.Long" group-title="Vietnam" tvg-name="THVL5 HD - BÃ¡o vÃ  PTTH VÄ©nh Long" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL5.jpg",THVL5 HD - BÃ¡o vÃ  PTTH VÄ©nh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-id="THÄT1.HD.-.BÃ¡o.vÃ .PTTH.Äá»“ng.ThÃ¡p" group-title="Vietnam" tvg-name="THÄT1 HD - BÃ¡o vÃ  PTTH Äá»“ng ThÃ¡p" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png",THÄT1 HD - BÃ¡o vÃ  PTTH Äá»“ng ThÃ¡p
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="TN.-.BÃ¡o.vÃ .PTTH.ThÃ¡i.NguyÃªn" group-title="Vietnam" tvg-name="TN - BÃ¡o vÃ  PTTH ThÃ¡i NguyÃªn" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_640_360.png",TN - BÃ¡o vÃ  PTTH ThÃ¡i NguyÃªn
+https://freem3u.xyz/api/live/play.m3u8?vid=88
+#EXTINF:-1 tvg-id="TTV.HD.-.BÃ¡o.vÃ .PTTH.Thanh.HÃ³a" group-title="Vietnam" tvg-name="TTV HD - BÃ¡o vÃ  PTTH Thanh HÃ³a" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png",TTV HD - BÃ¡o vÃ  PTTH Thanh HÃ³a
+https://freem3u.xyz/api/live/play.m3u8?vid=89
+#EXTINF:-1 tvg-id="TTV1.-.BÃ¡o.vÃ .PTTH.TÃ¢y.Ninh" group-title="Vietnam" tvg-name="TTV1 - BÃ¡o vÃ  PTTH TÃ¢y Ninh" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg",TTV1 - BÃ¡o vÃ  PTTH TÃ¢y Ninh
+https://freem3u.xyz/api/live/play.m3u8?vid=72
+#EXTINF:-1 tvg-id="TTV2.-.BÃ¡o.vÃ .PTTH.TÃ¢y.Ninh" group-title="Vietnam" tvg-name="TTV2 - BÃ¡o vÃ  PTTH TÃ¢y Ninh" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV2.png",TTV2 - BÃ¡o vÃ  PTTH TÃ¢y Ninh
+https://freem3u.xyz/api/live/play.m3u8?vid=86
+#EXTINF:-1 tvg-id="TVB.VIá»†T.NAM" group-title="Vietnam" tvg-name="TVB VIá»†T NAM" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIá»†T NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="VBS" group-title="Vietnam" tvg-name="VBS" tvg-logo="",VBS
+https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="VNA" group-title="Vietnam" tvg-name="VNA" tvg-logo="",VNA
+https://stream-hls.castr.net/671fdee3941829f934e34e15/live_47d4c7f095ae11ef978b436d0f35840c/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="VTV1.HD.vn" group-title="Vietnam" tvg-name="VTV1" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",VTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=2
+#EXTINF:-1 tvg-id="Women" group-title="Vietnam" tvg-name="Women" tvg-logo="",Women
+https://freem3u.xyz/api/live/play.m3u8?vid=163
+#EXTINF:-1 tvg-id="ÄTV.HD.-.BÃ¡o.Äiá»‡n.BiÃªn.Phá»§" group-title="Vietnam" tvg-name="ÄTV HD - BÃ¡o Äiá»‡n BiÃªn Phá»§" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_640_360.png",ÄTV HD - BÃ¡o Äiá»‡n BiÃªn Phá»§
+https://freem3u.xyz/api/live/play.m3u8?vid=52
+#EXTINF:-1 tvg-id="An.Giang.vn" group-title="VTVGO" tvg-name="An Giang" tvg-logo="",An Giang
+https://cmcdp2.vtvdigital.vn/hls/ANGIANGTV/index.m3u8
+#EXTINF:-1 tvg-id="ANTV.vn" group-title="VTVGO" tvg-name="ANTV" tvg-logo="",ANTV
+https://cmcty.vtvdigital.vn/mean/ANNINHTV/index.m3u8
+#EXTINF:-1 tvg-id="Ba.Ria" group-title="VTVGO" tvg-name="Ba Ria" tvg-logo="",Ba Ria
+https://cmcdp2.vtvdigital.vn/hls/VUNGTAUTV/index.m3u8
+#EXTINF:-1 tvg-id="BÃ¡ÂºÂ¯c.Giang.TV.vn" group-title="VTVGO" tvg-name="Bac Giang" tvg-logo="",Bac Giang
+https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/index.m3u8
+#EXTINF:-1 tvg-id="CÃƒ .Mau.vn" group-title="VTVGO" tvg-name="Ca Mau" tvg-logo="",Ca Mau
+https://vtvgo-kenhdp-zend.vtvdigital.vn/kenhdp/camautv.m3u8
+#EXTINF:-1 tvg-id="Cao.Bang" group-title="VTVGO" tvg-name="Cao Bang" tvg-logo="",Cao Bang
+https://cmcdp1.vtvdigital.vn/live/caobangtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dak.Lak" group-title="VTVGO" tvg-name="Dak Lak" tvg-logo="",Dak Lak
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 tvg-id="Dien.Bien" group-title="VTVGO" tvg-name="Dien Bien" tvg-logo="",Dien Bien
+https://vtvgo-kenhdp-zend.vtvdigital.vn/kenhdp/dienbientv.m3u8
+#EXTINF:-1 tvg-id="Ã„Ã¡Â»â€œng.Nai.1.HD.vn" group-title="VTVGO" tvg-name="Dong Nai 1" tvg-logo="",Dong Nai 1
+https://cmcdp.vtvdigital.vn/live/dongnai1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ã„Ã¡Â»â€œng.Nai.2.vn" group-title="VTVGO" tvg-name="Dong Nai 2" tvg-logo="",Dong Nai 2
+https://cmcdp.vtvdigital.vn/live/dongnai2tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dong.Thap" group-title="VTVGO" tvg-name="Dong Thap" tvg-logo="",Dong Thap
+https://cmcdp2.vtvdigital.vn/hls/DONGTHAPTV/index.m3u8
+#EXTINF:-1 tvg-id="DRTV1" group-title="VTVGO" tvg-name="DRTV1" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/9QfIszw4s7-DNRT1-LOGO-KENHVTVgo-150x90.webp",DRTV1
+https://cmcdp3.vtvdigital.vn/hls/DANANGTV/index.m3u8
+#EXTINF:-1 tvg-id="Ha.Tinh" group-title="VTVGO" tvg-name="Ha Tinh" tvg-logo="",Ha Tinh
+https://cmcdp.vtvdigital.vn/live/hatinhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Hai.Duong" group-title="VTVGO" tvg-name="Hai Duong" tvg-logo="",Hai Duong
+https://cmcdp2.vtvdigital.vn/hls/HAIDUONGTV/index.m3u8
+#EXTINF:-1 tvg-id="HÃƒ .NÃ¡Â»â„¢i.1Ã‚ .HD.vn" group-title="VTVGO" tvg-name="Hanoi TV 1" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/bdzDQczOL1-HNi1HD_150x902_1675158874.webp",Hanoi TV 1
+https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/index.m3u8
+#EXTINF:-1 tvg-id="HÃƒ .NÃ¡Â»â„¢i.2.HD.vn" group-title="VTVGO" tvg-name="Hanoi TV 2" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/QxWgqaBoV4-HNi2HD_150x902_1675158865.webp",Hanoi TV 2
+https://cmcdp2.vtvdigital.vn/hls/HANOI2TV/index.m3u8
+#EXTINF:-1 tvg-id="Hung.Yen" group-title="VTVGO" tvg-name="Hung Yen" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/HngYnTVHD_150x902_1675158887.webp",Hung Yen
+https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/index.m3u8
+#EXTINF:-1 tvg-id="Khanh.Hoa" group-title="VTVGO" tvg-name="Khanh Hoa" tvg-logo="",Khanh Hoa
+https://cmcdp3.vtvdigital.vn/hls/KHANHHOATV/index.m3u8
+#EXTINF:-1 tvg-id="Lai.Chau" group-title="VTVGO" tvg-name="Lai Chau" tvg-logo="",Lai Chau
+https://cmcdp2.vtvdigital.vn/hls/LAICHAUTV/index.m3u8
+#EXTINF:-1 tvg-id="Nghe.An" group-title="VTVGO" tvg-name="Nghe An" tvg-logo="",Nghe An
+https://cmcdp3.vtvdigital.vn/hls/NGHEANTV/index.m3u8
+#EXTINF:-1 tvg-id="Ninh.Binh" group-title="VTVGO" tvg-name="Ninh Binh" tvg-logo="",Ninh Binh
+https://cmcdp2.vtvdigital.vn/hls/NINHBINHTV/index.m3u8
+#EXTINF:-1 tvg-id="Phu.Tho" group-title="VTVGO" tvg-name="Phu Tho" tvg-logo="",Phu Tho
+https://cmcdp2.vtvdigital.vn/hls/PHUTHOTV/index.m3u8
+#EXTINF:-1 tvg-id="QPVN.(HD).vn" group-title="VTVGO" tvg-name="QPVN" tvg-logo="",QPVN
+https://cmcty.vtvdigital.vn/mean/QPTV/index.m3u8
+#EXTINF:-1 tvg-id="Quang.Ngai" group-title="VTVGO" tvg-name="Quang Ngai" tvg-logo="",Quang Ngai
+https://vtvgolive-ott3.vtvdigital.vn/live/quangngaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Quang.Ninh" group-title="VTVGO" tvg-name="Quang Ninh" tvg-logo="",Quang Ninh
+https://cmcdp3.vtvdigital.vn/hls/QUANGNINHTV/index.m3u8
+#EXTINF:-1 tvg-id="Tay.Ninh.1" group-title="VTVGO" tvg-name="Tay Ninh 1" tvg-logo="",Tay Ninh 1
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+#EXTINF:-1 tvg-id="Tay.Ninh.2" group-title="VTVGO" tvg-name="Tay Ninh 2" tvg-logo="",Tay Ninh 2
+https://cmcdp2.vtvdigital.vn/hls/TAYNINHTV/index.m3u8
+#EXTINF:-1 tvg-id="Thai.Nguyen" group-title="VTVGO" tvg-name="Thai Nguyen" tvg-logo="",Thai Nguyen
+https://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/index.m3u8
+#EXTINF:-1 tvg-id="Thanh.Hoa" group-title="VTVGO" tvg-name="Thanh Hoa" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/TTVHD_150x902_1675158896.webp",Thanh Hoa
+https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/index.m3u8
+#EXTINF:-1 tvg-id="Vietnam.Today" group-title="VTVGO" tvg-name="Vietnam Today" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250906/2025090623/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy.webp",Vietnam Today
+https://cmcdp3.vtvdigital.vn/hls/VIETNAMTODAY/index.m3u8
+#EXTINF:-1 tvg-id="TVB.Vietnam" group-title="Vietnam" tvg-name="TVB Vietnam" tvg-logo="",TVB Vietnam
+https://stream1.freetv.fun/d8e5c2e01db712c31db2c8fb24bf5aecfff2612a573a12f20505e1604b2cff85.m3u8
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" group-title="Cable TV" tvg-name="A&E East (360p) [Not 24/7]" tvg-logo="",A&E East (360p) [Not 24/7]
+https://tvpass.org/live/AEEast/sd
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-id="WOLODT1.us@SD" group-title="Cable TV" tvg-name="ABC 25 Columbia" tvg-logo="",ABC 25 Columbia
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD" group-title="Cable TV" tvg-name="ACCN (720p)" tvg-logo="",ACCN (720p)
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.HD.us2" group-title="Cable TV" tvg-name="AMC East (1080p)" tvg-logo="",AMC East (1080p)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Antenna.TV.us2" group-title="Cable TV" tvg-name="Antenna TV" tvg-logo="",Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 tvg-id="ASPiRE.HD.us2" group-title="Cable TV" tvg-name="Aspire" tvg-logo="",Aspire
+https://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-id="AXS.TV.us2" group-title="Cable TV" tvg-name="AXS TV" tvg-logo="",AXS TV
+https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" group-title="Cable TV" tvg-name="BBC America East" tvg-logo="",BBC America East
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" group-title="Cable TV" tvg-name="BBC News North America" tvg-logo="",BBC News North America
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" group-title="Cable TV" tvg-name="beIN Sports USA" tvg-logo="",beIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.HD.us2" group-title="Cable TV" tvg-name="BET East" tvg-logo="",BET East
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BET.GOSPEL.us2" group-title="Cable TV" tvg-name="BET Gospel" tvg-logo="",BET Gospel
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BET.Her.us2" group-title="Cable TV" tvg-name="BET Her East" tvg-logo="",BET Her East
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BET.Jams.us2" group-title="Cable TV" tvg-name="BET Jams" tvg-logo="",BET Jams
+https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BET.Soul.us2" group-title="Cable TV" tvg-name="BET Soul" tvg-logo="",BET Soul
+https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" group-title="Cable TV" tvg-name="Big Ten Network" tvg-logo="",Big Ten Network
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" group-title="Cable TV" tvg-name="Bloomberg TV" tvg-logo="",Bloomberg TV
+https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.TV.us2" group-title="Cable TV" tvg-name="Bounce" tvg-logo="",Bounce
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.HD.us2" group-title="Cable TV" tvg-name="Bravo East" tvg-logo="",Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" group-title="Cable TV" tvg-name="Buzzr" tvg-logo="",Buzzr
+https://fl1.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN2.us@SD" group-title="Cable TV" tvg-name="C-SPAN 2 (360p) [Not 24/7]" tvg-logo="",C-SPAN 2 (360p) [Not 24/7]
+https://tvpass.org/live/CSPAN2/sd
+https://tvpass.org/live/CSPAN2/hd
+#EXTINF:-1 tvg-id="CSPAN.us@SD" group-title="Cable TV" tvg-name="C-SPAN" tvg-logo="",C-SPAN
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East" group-title="Cable TV" tvg-name="CBS East (720p)" tvg-logo="",CBS East (720p)
+https://fl1.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Cable TV" tvg-name="CBS Sports Network USA" tvg-logo="",CBS Sports Network USA
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CHBLTV.ca@SD" group-title="Cable TV" tvg-name="CHBL-TV" tvg-logo="",CHBL-TV
+https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
+#EXTINF:-1 tvg-id="Cleo.TV.HD.us2" group-title="Cable TV" tvg-name="Cleo TV (720p)" tvg-logo="",Cleo TV (720p)
+https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-id="CMT.HD.us2" group-title="Cable TV" tvg-name="CMT East" tvg-logo="",CMT East
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.HD.us2" group-title="Cable TV" tvg-name="CNBC (360p) [Not 24/7]" tvg-logo="",CNBC (360p) [Not 24/7]
+https://tvpass.org/live/CNBC/sd
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1 tvg-id="CNBC.World.us2" group-title="Cable TV" tvg-name="CNBC World" tvg-logo="",CNBC World
+https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.HD.us2" group-title="Cable TV" tvg-name="CNBC" tvg-logo="",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.TV.HD.us2" group-title="Cable TV" tvg-name="Comedy TV" tvg-logo="",Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-id="Comet.(Pacific).us2" group-title="Cable TV" tvg-name="Comet" tvg-logo="",Comet
+https://fl1.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="Court.TV.us2" group-title="Cable TV" tvg-name="Court TV" tvg-logo="",Court TV
+https://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-id="COZI.TV.us2" group-title="Cable TV" tvg-name="Cozi TV" tvg-logo="",Cozi TV
+https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca@SD" group-title="Cable TV" tvg-name="Crave 1" tvg-logo="",Crave 1
+https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca@SD" group-title="Cable TV" tvg-name="Crave 2" tvg-logo="",Crave 2
+https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.ca@SD" group-title="Cable TV" tvg-name="Crave 3" tvg-logo="",Crave 3
+https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca@SD" group-title="Cable TV" tvg-name="Crave 4" tvg-logo="",Crave 4
+https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" group-title="Cable TV" tvg-name="Crime + Investigation (360p) [Not 24/7]" tvg-logo="",Crime + Investigation (360p) [Not 24/7]
+https://tvpass.org/live/CrimePlusInvestigation/sd
+https://tvpass.org/live/CrimePlusInvestigation/hd
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-id="CVMTV.jm@SD" group-title="Cable TV" tvg-name="CVM TV" tvg-logo="",CVM TV
+https://fl1.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" group-title="Cable TV" tvg-name="Disney Channel East (360p) [Not 24/7]" tvg-logo="",Disney Channel East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/sd
+https://tvpass.org/live/DisneyChannelEast/hd
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" group-title="Cable TV" tvg-name="Disney Junior East (360p) [Not 24/7]" tvg-logo="",Disney Junior East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/sd
+https://tvpass.org/live/DisneyJuniorEast/hd
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" group-title="Cable TV" tvg-name="Disney XD (720p)" tvg-logo="",Disney XD (720p)
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+https://tvpass.org/live/DisneyXDEast/sd
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" group-title="Cable TV" tvg-name="E! East (1080p) [Not 24/7]" tvg-logo="",E! East (1080p) [Not 24/7]
+https://tvpass.org/live/EEast/hd
+https://tvpass.org/live/EEast/sd
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" group-title="Cable TV" tvg-name="ESPN U (720p)" tvg-logo="",ESPN U (720p)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" group-title="Cable TV" tvg-name="ESPNews (720p)" tvg-logo="",ESPNews (720p)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD" group-title="Cable TV" tvg-name="FanDuel Sports Network" tvg-logo="",FanDuel Sports Network
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelTV.us@SD" group-title="Cable TV" tvg-name="FanDuel TV" tvg-logo="",FanDuel TV
+https://fl1.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" group-title="Cable TV" tvg-name="Fox Business Network (360p) [Not 24/7]" tvg-logo="",Fox Business Network (360p) [Not 24/7]
+https://tvpass.org/live/FoxBusiness/sd
+https://tvpass.org/live/FoxBusiness/hd
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" group-title="Cable TV" tvg-name="Fox News Channel (360p) [Not 24/7]" tvg-logo="",Fox News Channel (360p) [Not 24/7]
+https://tvpass.org/live/FoxNewsChannel/sd
+https://tvpass.org/live/FoxNewsChannel/hd
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us@SD" group-title="Cable TV" tvg-name="Fox Soul" tvg-logo="",Fox Soul
+https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.1" group-title="Cable TV" tvg-name="Fox Sports 1" tvg-logo="",Fox Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.(360p).[Not.24/7]" group-title="Cable TV" tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="",Fox Sports 2 (360p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="Fox.Sports.2.(720p).[Not.24/7]" group-title="Cable TV" tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="",Fox Sports 2 (720p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-id="Freeform.HD.us2" group-title="Cable TV" tvg-name="Free form East" tvg-logo="",Free form East
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.HD.us2" group-title="Cable TV" tvg-name="Fuse East (1080p) [Not 24/7]" tvg-logo="",Fuse East (1080p) [Not 24/7]
+https://tvpass.org/live/FuseEast/hd
+https://tvpass.org/live/FuseEast/sd
+https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.HD.us2" group-title="Cable TV" tvg-name="FX East (360p) [Not 24/7]" tvg-logo="",FX East (360p) [Not 24/7]
+https://tvpass.org/live/FXEast/sd
+https://tvpass.org/live/FXEast/hd
+https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" group-title="Cable TV" tvg-name="FX Movie Channel (360p) [Not 24/7]" tvg-logo="",FX Movie Channel (360p) [Not 24/7]
+https://tvpass.org/live/FXMovieChannel/sd
+https://tvpass.org/live/FXMovieChannel/hd
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.HD.us2" group-title="Cable TV" tvg-name="FXX East (360p) [Not 24/7]" tvg-logo="",FXX East (360p) [Not 24/7]
+https://tvpass.org/live/FXXEast/sd
+https://tvpass.org/live/FXXEast/hd
+https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" group-title="Cable TV" tvg-name="FYI East (360p) [Not 24/7]" tvg-logo="",FYI East (360p) [Not 24/7]
+https://tvpass.org/live/FYIEast/sd
+https://tvpass.org/live/FYIEast/hd
+https://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="GetTV.us@SD" group-title="Cable TV" tvg-name="GetTV (480p)" tvg-logo="",GetTV (480p)
+https://fl1.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" group-title="Cable TV" tvg-name="Golf Channel (1080p) [Not 24/7]" tvg-logo="",Golf Channel (1080p) [Not 24/7]
+https://tvpass.org/live/GolfChannel/hd
+https://tvpass.org/live/GolfChannel/sd
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-id="Great.American.Country" group-title="Cable TV" tvg-name="Great American Country" tvg-logo="",Great American Country
+https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
+#EXTINF:-1 tvg-id="Grit.us@SD" group-title="Cable TV" tvg-name="Grit" tvg-logo="",Grit
+https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" group-title="Cable TV" tvg-name="Hallmark Channel East" tvg-logo="",Hallmark Channel East
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us@SD" group-title="Cable TV" tvg-name="Hallmark Drama (360p) [Not 24/7]" tvg-logo="",Hallmark Drama (360p) [Not 24/7]
+https://tvpass.org/live/HallmarkDrama/sd
+https://tvpass.org/live/HallmarkDrama/hd
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" group-title="Cable TV" tvg-name="Hallmark Movies & Mysteries East (1080p) [Not 24/7]" tvg-logo="",Hallmark Movies & Mysteries East (1080p) [Not 24/7]
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="History.HD.us2" group-title="Cable TV" tvg-name="History" tvg-logo="",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" group-title="Cable TV" tvg-name="HSN" tvg-logo="",HSN
+https://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-id="IFC.HD.us2" group-title="Cable TV" tvg-name="IFC East (360p) [Not 24/7]" tvg-logo="",IFC East (360p) [Not 24/7]
+https://tvpass.org/live/IFCEast/sd
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="INSP.HD.us2" group-title="Cable TV" tvg-name="INSP" tvg-logo="",INSP
+https://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-id="ION.Plus.us2" group-title="Cable TV" tvg-name="ION Plus East (720p)" tvg-logo="",ION Plus East (720p)
+https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" group-title="Cable TV" tvg-name="ION TV East" tvg-logo="",ION TV East
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Cable TV" tvg-name="KABC-DT1 (360p) [Not 24/7]" tvg-logo="",KABC-DT1 (360p) [Not 24/7]
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" group-title="Cable TV" tvg-name="KCBS-DT1 (1080p) [Not 24/7]" tvg-logo="",KCBS-DT1 (1080p) [Not 24/7]
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="KFMB-DT.us_locals1" group-title="Cable TV" tvg-name="KFMB-DT2 (360p) [Not 24/7]" tvg-logo="",KFMB-DT2 (360p) [Not 24/7]
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Cable TV" tvg-name="KNBC-DT1 (1080p) [Not 24/7]" tvg-logo="",KNBC-DT1 (1080p) [Not 24/7]
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Cable TV" tvg-name="KTTV-DT1 (360p) [Not 24/7]" tvg-logo="",KTTV-DT1 (360p) [Not 24/7]
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" group-title="Cable TV" tvg-name="Lifetime East" tvg-logo="",Lifetime East
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+https://tvpass.org/live/LifetimeMoviesEast/sd
+https://tvpass.org/live/LifetimeMoviesEast/hd
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Logo.us2" group-title="Cable TV" tvg-name="Logo East (360p) [Not 24/7]" tvg-logo="",Logo East (360p) [Not 24/7]
+https://tvpass.org/live/LogoEast/sd
+https://tvpass.org/live/LogoEast/hd
+#EXTINF:-1 tvg-id="LoveNature.ca@SD" group-title="Cable TV" tvg-name="Love Nature" tvg-logo="",Love Nature
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-id="MAV.TV.(720p)" group-title="Cable TV" tvg-name="MAV TV (720p)" tvg-logo="",MAV TV (720p)
+https://fl1.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" group-title="Cable TV" tvg-name="MeTV" tvg-logo="",MeTV
+https://fl1.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.HD.us2" group-title="Cable TV" tvg-name="MGM+ East" tvg-logo="",MGM+ East
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" group-title="Cable TV" tvg-name="MGM+ Marquee" tvg-logo="",MGM+ Marquee
+https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="Military.History.Channel.us2" group-title="Cable TV" tvg-name="Military History" tvg-logo="",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" group-title="Cable TV" tvg-name="MLB Network" tvg-logo="",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MSG.National.us2" group-title="Cable TV" tvg-name="MSG (1080p) [Not 24/7]" tvg-logo="",MSG (1080p) [Not 24/7]
+https://tvpass.org/live/msg-madison-square-gardens/hd
+https://tvpass.org/live/msg-madison-square-gardens/sd
+https://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.HD.us2" group-title="Cable TV" tvg-name="MSNBC (360p) [Not 24/7]" tvg-logo="",MSNBC (360p) [Not 24/7]
+https://tvpass.org/live/MSNBC/sd
+https://tvpass.org/live/MSNBC/hd
+#EXTINF:-1 tvg-id="MTV.Classic.us2" group-title="Cable TV" tvg-name="MTV Classic (360p)" tvg-logo="",MTV Classic (360p)
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" group-title="Cable TV" tvg-name="MTV East" tvg-logo="",MTV East
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVLIVE.us2" group-title="Cable TV" tvg-name="MTV Live (720p)" tvg-logo="",MTV Live (720p)
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" group-title="Cable TV" tvg-name="MTV2 (720p)" tvg-logo="",MTV2 (720p)
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="Much.ca@SD" group-title="Cable TV" tvg-name="Much (720p)" tvg-logo="",Much (720p)
+https://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" group-title="Cable TV" tvg-name="National Geographic East" tvg-logo="",National Geographic East
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+https://tvpass.org/live/NationalGeographicEast/sd
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" group-title="Cable TV" tvg-name="National Geographic Wild East" tvg-logo="",National Geographic Wild East
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+https://tvpass.org/live/NationalGeographicWildEast/sd
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" group-title="Cable TV" tvg-name="NBA TV" tvg-logo="",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" group-title="Cable TV" tvg-name="NBC Sports Bay Area (360p) [Not 24/7]" tvg-logo="",NBC Sports Bay Area (360p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-bay-area/sd
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" group-title="Cable TV" tvg-name="NBC Sports Boston (1080p) [Not 24/7]" tvg-logo="",NBC Sports Boston (1080p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-boston/hd
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" group-title="Cable TV" tvg-name="NBC Sports Philadelphia (360p) [Not 24/7]" tvg-logo="",NBC Sports Philadelphia (360p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-id="NewsNation.us2" group-title="Cable TV" tvg-name="News Nation (720p)" tvg-logo="",News Nation (720p)
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" group-title="Cable TV" tvg-name="Newsmax TV (1080p) [Not 24/7]" tvg-logo="",Newsmax TV (1080p) [Not 24/7]
+https://tvpass.org/live/NewsmaxTV/hd
+https://tvpass.org/live/NewsmaxTV/sd
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" group-title="Cable TV" tvg-name="NFL Network" tvg-logo="",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" group-title="Cable TV" tvg-name="NFL RedZone (360p) [Not 24/7]" tvg-logo="",NFL RedZone (360p) [Not 24/7]
+https://tvpass.org/live/NFLRedZone/sd
+https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" group-title="Cable TV" tvg-name="NHL Network (720p)" tvg-logo="",NHL Network (720p)
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" group-title="Cable TV" tvg-name="Nick Jr. East (720p)" tvg-logo="",Nick Jr. East (720p)
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="Nick.Music.us2" group-title="Cable TV" tvg-name="Nick Music (720p)" tvg-logo="",Nick Music (720p)
+https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" group-title="Cable TV" tvg-name="Nickelodeon East" tvg-logo="",Nickelodeon East
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us2" group-title="Cable TV" tvg-name="Nicktoons East" tvg-logo="",Nicktoons East
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" group-title="Cable TV" tvg-name="Outdoor Channel" tvg-logo="",Outdoor Channel
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Ovation.HD.us2" group-title="Cable TV" tvg-name="Ovation (1080p)" tvg-logo="",Ovation (1080p)
+https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" group-title="Cable TV" tvg-name="Oxygen East" tvg-logo="",Oxygen East
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Cable TV" tvg-name="Paramount Network East" tvg-logo="",Paramount Network East
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="POP.HD.us2" group-title="Cable TV" tvg-name="Pop TV" tvg-logo="",Pop TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="Pursuit.Channel.us2" group-title="Cable TV" tvg-name="Pursuit Channel (720p)" tvg-logo="",Pursuit Channel (720p)
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-id="QVC.HD.us2" group-title="Cable TV" tvg-name="QVC (720p)" tvg-logo="",QVC (720p)
+https://fl1.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" group-title="Cable TV" tvg-name="Reelz (720p)" tvg-logo="",Reelz (720p)
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.HD.us2" group-title="Cable TV" tvg-name="Revolt" tvg-logo="",Revolt
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" group-title="Cable TV" tvg-name="Showtime 2 East" tvg-logo="",Showtime 2 East
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" group-title="Cable TV" tvg-name="Showtime Next East" tvg-logo="",Showtime Next East
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" group-title="Cable TV" tvg-name="Showtime Women East" tvg-logo="",Showtime Women East
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" group-title="Cable TV" tvg-name="Smithsonian Channel East" tvg-logo="",Smithsonian Channel East
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Sony.MIX.us2" group-title="Cable TV" tvg-name="Sony Channel" tvg-logo="",Sony Channel
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Sportsman.Channel.us2" group-title="Cable TV" tvg-name="Sportsman Channel" tvg-logo="",Sportsman Channel
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" group-title="Cable TV" tvg-name="SportsNet New York (540p)" tvg-logo="",SportsNet New York (540p)
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" group-title="Cable TV" tvg-name="Start TV" tvg-logo="",Start TV
+https://fl1.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-id="Starz.HD.us2" group-title="Cable TV" tvg-name="Starz East (1080p) [Not 24/7]" tvg-logo="",Starz East (1080p) [Not 24/7]
+https://tvpass.org/live/StarzEast/hd
+https://tvpass.org/live/StarzEast/sd
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" group-title="Cable TV" tvg-name="Starz Encore Classic East" tvg-logo="",Starz Encore Classic East
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" group-title="Cable TV" tvg-name="Starz West" tvg-logo="",Starz West
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="AMC.HD.us2" group-title="Cable TV" tvg-name="Stories by AMC (1080p)" tvg-logo="",Stories by AMC (1080p)
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" group-title="Cable TV" tvg-name="Sundance TV East" tvg-logo="",Sundance TV East
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.HD.us2" group-title="Cable TV" tvg-name="Syfy East" tvg-logo="",Syfy East
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Cable TV" tvg-name="Tennis Channel" tvg-logo="",Tennis Channel
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.us2" group-title="Cable TV" tvg-name="The Cowboy Channel" tvg-logo="",The Cowboy Channel
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD" group-title="Cable TV" tvg-name="TSN1 (1080p) [Not 24/7]" tvg-logo="",TSN1 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn1/hd
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="TSN2.ca@SD" group-title="Cable TV" tvg-name="TSN2 (1080p) [Not 24/7]" tvg-logo="",TSN2 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn2/hd
+https://tvpass.org/live/tsn2/sd
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca@SD" group-title="Cable TV" tvg-name="TSN3 (1080p) [Not 24/7]" tvg-logo="",TSN3 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn3/hd
+https://tvpass.org/live/tsn3/sd
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca@SD" group-title="Cable TV" tvg-name="TSN4 (360p) [Not 24/7]" tvg-logo="",TSN4 (360p) [Not 24/7]
+https://tvpass.org/live/tsn4/sd
+https://tvpass.org/live/tsn4/hd
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca@SD" group-title="Cable TV" tvg-name="TSN5 (1080p) [Not 24/7]" tvg-logo="",TSN5 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn5/hd
+https://tvpass.org/live/tsn5/sd
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TV.Land.HD.us2" group-title="Cable TV" tvg-name="TV Land" tvg-logo="",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" group-title="Cable TV" tvg-name="TV One" tvg-logo="",TV One
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="UPtv.us2" group-title="Cable TV" tvg-name="Up TV (1080p)" tvg-logo="",Up TV (1080p)
+https://fl1.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Cable TV" tvg-name="USA Network (720p)" tvg-logo="",USA Network (720p)
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+https://tvpass.org/live/USANetworkEast/hd
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1 tvg-id="VH1.HD.us2" group-title="Cable TV" tvg-name="VH1 East" tvg-logo="",VH1 East
+https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="Vice.HD.us2" group-title="Cable TV" tvg-name="VICE TV (720p)" tvg-logo="",VICE TV (720p)
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="WNetwork.ca@East" group-title="Cable TV" tvg-name="W Network (720p)" tvg-logo="",W Network (720p)
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" group-title="Cable TV" tvg-name="WABC-DT1 (360p) [Not 24/7]" tvg-logo="",WABC-DT1 (360p) [Not 24/7]
+https://tvpass.org/live/WABCDT1/sd
+https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" group-title="Cable TV" tvg-name="WCBS-DT1 (360p) [Not 24/7]" tvg-logo="",WCBS-DT1 (360p) [Not 24/7]
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" group-title="Cable TV" tvg-name="We TV East" tvg-logo="",We TV East
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="WFLA-DT.us_locals1" group-title="Cable TV" tvg-name="WFLA-DT1" tvg-logo="",WFLA-DT1
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WFLX-DT.us_locals1" group-title="Cable TV" tvg-name="WFLX-DT1" tvg-logo="",WFLX-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" group-title="Cable TV" tvg-name="WFTS-DT1" tvg-logo="",WFTS-DT1
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-id="KWGN-DT.us_locals1" group-title="Cable TV" tvg-name="WGN-DT1 (720p)" tvg-logo="",WGN-DT1 (720p)
+https://fl1.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" group-title="Cable TV" tvg-name="Willow" tvg-logo="",Willow
+https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 tvg-id="WIS-DT.us_locals1" group-title="Cable TV" tvg-name="WIS-DT2 (360p) [Not 24/7]" tvg-logo="",WIS-DT2 (360p) [Not 24/7]
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+#EXTINF:-1 tvg-id="WKCF-DT.us_locals1" group-title="Cable TV" tvg-name="WKCF-DT1" tvg-logo="",WKCF-DT1
+https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" group-title="Cable TV" tvg-name="WNBC-DT1 (360p) [Not 24/7]" tvg-logo="",WNBC-DT1 (360p) [Not 24/7]
+https://tvpass.org/live/WNBCDT1/sd
+https://tvpass.org/live/WNBCDT1/hd
+#EXTINF:-1 tvg-id="WNET-DT.us_locals1" group-title="Cable TV" tvg-name="WNET-DT1 (1080p) [Not 24/7]" tvg-logo="",WNET-DT1 (1080p) [Not 24/7]
+https://tvpass.org/live/WNET/hd
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1 tvg-id="WNJU-DT.us_locals1" group-title="Cable TV" tvg-name="WNJU-DT1 (1080p) [Not 24/7]" tvg-logo="",WNJU-DT1 (1080p) [Not 24/7]
+https://tvpass.org/live/TelemundoEast/hd
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" group-title="Cable TV" tvg-name="WNYW-DT1 (360p) [Not 24/7]" tvg-logo="",WNYW-DT1 (360p) [Not 24/7]
+https://tvpass.org/live/WNYWDT1/sd
+https://tvpass.org/live/WNYWDT1/hd
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" group-title="Cable TV" tvg-name="World Fishing Network" tvg-logo="",World Fishing Network
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" group-title="Cable TV" tvg-name="WPEC-DT1" tvg-logo="",WPEC-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WTOG-DT.us_locals1" group-title="Cable TV" tvg-name="WTOG-DT1" tvg-logo="",WTOG-DT1
+https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+#EXTINF:-1 tvg-id="Yes.Network.us2" group-title="Cable TV" tvg-name="Yes Network" tvg-logo="",Yes Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXT-X-ENDLIST
